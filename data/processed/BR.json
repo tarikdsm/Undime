@@ -1,0 +1,529 @@
+{
+  "uf": "BR",
+  "nivel": "nacional",
+  "nome_oficial": {
+    "valor": "União Nacional dos Dirigentes Municipais de Educação (Undime)",
+    "fonte_url": "https://undime.org.br/noticia/sobre-a-undime",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "cnpj": {
+    "valor": "03.604.410/0001-30",
+    "fonte_url": "https://undime.org.br/noticia/estatuto",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "fundacao": {
+    "valor": "10 de outubro de 1986",
+    "fonte_url": "https://undime.org.br/noticia/estatuto",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "sede_endereco": {
+    "valor": "SCS Quadra 06, Bloco A, nº 240, Edifício Carioca, Salas 601, 607, 608, 610 a 615, Asa Sul, Brasília/DF, CEP 70.325-900. OBS.: a página de Seccionais lista a Secretaria Executiva Nacional como 'SCS - Qd.6 - Bloco A - Ed. Carioca - salas 611/613 - CEP 70.306-000 - Brasília/DF' (https://undime.org.br/noticia/seccionais) — divergência de salas/CEP registrada, não resolvida.",
+    "fonte_url": "https://undime.org.br/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "contato": {
+    "telefone": {
+      "valor": "(61) 3575-7600 · (61) 3037-7888",
+      "fonte_url": "https://undime.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "email": {
+      "valor": "undimenacional@undime.org.br · ouvidoria@undime.org.br",
+      "fonte_url": "https://undime.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "site": {
+      "valor": "https://undime.org.br/",
+      "fonte_url": "https://undime.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "portal_estadual": {
+      "valor": "não se aplica (unidade nacional)",
+      "fonte_url": "https://undime.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    }
+  },
+  "diretoria": {
+    "presidente": {
+      "nome": {
+        "valor": "Luiz Miguel Martins Garcia",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "municipio_origem": {
+        "valor": "Nova Odessa/SP (Dirigente Municipal de Educação). OBS.: a página de Seccionais (snapshot fev/2026) o lista como DME de Sud Mennucci/SP — divergência registrada; preferida a página de Diretoria por ser mais recente.",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    },
+    "secretaria_executiva": {
+      "valor": "Secretaria Executiva Nacional — SCS - Qd.6 - Bloco A - Ed. Carioca - salas 611/613 - CEP 70.306-000 - Brasília/DF - Telefone/Fax (61) 3037-7888. (Nome do(a) secretário(a) executivo(a) nacional não localizado publicamente no site.)",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "conselho_fiscal": [
+      {
+        "valor": "Titular: Alsione Pereira de Alencar Sulbaran — DME de Pacaraima/RR",
+        "fonte_url": "https://undime.org.br/noticia/conselho-fiscal",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Titular: Humberto de Campos de Castilho — DME de Sucupira/TO",
+        "fonte_url": "https://undime.org.br/noticia/conselho-fiscal",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Titular: Ana Paula Nunes da Silva — DME de Princesa Isabel/PB",
+        "fonte_url": "https://undime.org.br/noticia/conselho-fiscal",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Suplente: José Marques Aurélio de Souza — DME de Jucás/CE",
+        "fonte_url": "https://undime.org.br/noticia/conselho-fiscal",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Suplente: Samuel dos Santos Silva — DME de Tatarugalzinho/AP",
+        "fonte_url": "https://undime.org.br/noticia/conselho-fiscal",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Suplente: cargo vago",
+        "fonte_url": "https://undime.org.br/noticia/conselho-fiscal",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    ],
+    "outros": [
+      {
+        "valor": "Vice-presidente: Antônio Idilvan de Lima Alencar — DME de Fortaleza/CE (licenciado) — Diretoria Executiva 2025-2027",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretaria de Assuntos Jurídicos: Ana Paula Ferreira Cruz Bennemann — DME de São Francisco de Paula/RS",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretaria de Coordenação Técnica: Érica Graziela Benício de Melo — DME de Domingos Mourão/PI",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretaria de Articulação: Maria Virgínia Andrade Rocha Feitosa — DME de Nova Iguaçu/RJ",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretaria de Comunicação: Anderlúcia de Castro Ferreira — DME de Anicuns/GO",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretaria de Finanças: Anderson Passos dos Santos — DME de Aratuípe/BA",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Presidência Região Centro-Oeste: Eduardo Ferreira da Silva — DME de Canarana/MT",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Presidência Região Nordeste: Petrúcio de Lima Ferreira — DME de Goianinha/RN",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Presidência Região Norte: Luslarlene Umbelina de Souza Fiamett — DME de Santa Luzia D'Oeste/RO",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Presidência Região Sudeste: Jônatas Gonçalves Rêgo — DME de Mirabela/MG",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Presidência Região Sul: Jucilene Antônio Fernandes — DME de Balneário Rincão/SC. OBS.: snapshot seccionais (fev/2026) listava Marcia Aparecida Baldini (Cascavel/PR) na regional Sul — divergência registrada; preferida a página de Diretoria viva.",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Suplência Secretaria de Assuntos Jurídicos: Marcus Lúcio de Sousa — DME de Tefé/AM",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Suplência Secretaria de Coordenação Técnica: Djalma Barros Siqueira Neto — DME de Feliz Deserto/AL",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Suplência Secretaria de Articulação: Felipe Sartori Sigollo — DME de Diadema/SP",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Suplência Secretaria de Comunicação: Shirliane Monteiro de Lima Sampaio — DME de Igarapé Grande/MA",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Suplência Secretaria de Finanças: João Luiz Andrade Dória — DME de Estância/SE",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Vice-Presidência Região Centro-Oeste: Silvia Patrícia Freire — DME de Itaquiraí/MS",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Vice-Presidência Região Nordeste: Andreika Asseker Amarante — DME de Igarassu/PE",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Vice-Presidência Região Norte: Sandra Helena Ataíde de Lima — DME de Moju/PA",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Vice-Presidência Região Sudeste: Vanderson Valadares de Campos — DME de Alegre/ES",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Vice-Presidência Região Sul: Adriana Palmieri — DME de Maringá/PR",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    ]
+  },
+  "redes_sociais": {
+    "instagram": {
+      "valor": "https://www.instagram.com/undimenacional",
+      "fonte_url": "https://undime.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "facebook": {
+      "valor": "https://facebook.com/undime",
+      "fonte_url": "https://undime.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "x": {
+      "valor": "https://twitter.com/undime (@undime). Posts recentes não coletados nesta execução (a coleta via grok no X autenticado não retornou resultados — X exige login).",
+      "fonte_url": "https://undime.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "youtube": {
+      "valor": "https://youtube.com/undimenac",
+      "fonte_url": "https://undime.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "linkedin": {
+      "valor": "https://br.linkedin.com/company/undime-nacional",
+      "fonte_url": "https://br.linkedin.com/company/undime-nacional",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    }
+  },
+  "associados_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "https://undime.org.br/noticia/sobre-a-undime",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "municipios_num": {
+    "valor": "5.568 municípios brasileiros representados (texto institucional 'Sobre a Undime'). Não é número de filiados; refere-se ao universo de municípios representados.",
+    "fonte_url": "https://undime.org.br/noticia/sobre-a-undime",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "financeiro": {
+    "receitas": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://undime.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "contribuicoes": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://undime.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "prestacao_contas_url": {
+      "valor": "Seção de transparência existe no menu ('Atas, Pareceres e Relatórios Financeiros' e 'Balanço de Gestão'), mas valores/documentos financeiros específicos não foram localizados/extraídos nesta coleta.",
+      "fonte_url": "https://undime.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "eventos": [
+    {
+      "titulo": {
+        "valor": "Fórum Estadual Extraordinário da Undime/MS 2026",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_inicio": {
+        "valor": "2026-06-25",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_fim": {
+        "valor": "2026-06-26",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "local": {
+        "valor": "Campo Grande/MS",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "inscricao_url": {
+        "valor": "não localizado publicamente",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      },
+      "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026"
+    },
+    {
+      "titulo": {
+        "valor": "Fórum Estadual Extraordinário da Undime/AC 2026",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_inicio": {
+        "valor": "2026-07-01",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_fim": {
+        "valor": "2026-07-03",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "local": {
+        "valor": "Rio Branco/AC",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "inscricao_url": {
+        "valor": "não localizado publicamente",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      },
+      "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026"
+    },
+    {
+      "titulo": {
+        "valor": "Fórum Estadual Extraordinário da Undime/PA 2026",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_inicio": {
+        "valor": "2026-07-02",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_fim": {
+        "valor": "2026-07-03",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "local": {
+        "valor": "Belém/PA",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "inscricao_url": {
+        "valor": "não localizado publicamente",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      },
+      "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026"
+    },
+    {
+      "titulo": {
+        "valor": "Fórum Estadual Extraordinário da Undime/MA 2026",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_inicio": {
+        "valor": "2026-08-11",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_fim": {
+        "valor": "2026-08-12",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "local": {
+        "valor": "São Luís/MA",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "inscricao_url": {
+        "valor": "não localizado publicamente",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      },
+      "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026"
+    },
+    {
+      "titulo": {
+        "valor": "Fórum Estadual Extraordinário da Undime/PB 2026",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_inicio": {
+        "valor": "2026-08 (mês de agosto; dia não informado na fonte)",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_fim": {
+        "valor": "não localizado publicamente",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      },
+      "local": {
+        "valor": "Paraíba (cidade não informada na fonte)",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "inscricao_url": {
+        "valor": "não localizado publicamente",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      },
+      "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026"
+    },
+    {
+      "titulo": {
+        "valor": "Fórum Estadual Extraordinário da Undime/AP 2026",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_inicio": {
+        "valor": "2026-11-05",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_fim": {
+        "valor": "2026-11-06",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "local": {
+        "valor": "Macapá/AP",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "inscricao_url": {
+        "valor": "não localizado publicamente",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      },
+      "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026"
+    }
+  ],
+  "fontes_consultadas": [
+    "https://undime.org.br/",
+    "https://undime.org.br/noticia/sobre-a-undime",
+    "https://undime.org.br/noticia/estatuto",
+    "https://undime.org.br/noticia/diretoria",
+    "https://undime.org.br/noticia/conselho-fiscal",
+    "https://undime.org.br/noticia/seccionais",
+    "https://undime.org.br/noticia/presidentes-estaduais",
+    "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+    "https://br.linkedin.com/company/undime-nacional",
+    "http://web.archive.org/web/20260203052559/https://undime.org.br/noticia/seccionais",
+    "http://web.archive.org/web/20260510022922/https://undime.org.br/"
+  ],
+  "lacunas": [
+    "associados_num",
+    "financeiro.receitas",
+    "financeiro.contribuicoes",
+    "financeiro.prestacao_contas_url",
+    "diretoria.secretaria_executiva (nome do(a) secretário(a) executivo(a) nacional)",
+    "redes_sociais.x (posts recentes não coletados; handle confirmado)",
+    "sede_endereco (divergência de salas/CEP entre footer 70.325-900 e Secretaria Executiva 70.306-000 — não resolvida)",
+    "eventos (fóruns estaduais sem URL de inscrição; PB sem data/cidade específicas)"
+  ]
+}
