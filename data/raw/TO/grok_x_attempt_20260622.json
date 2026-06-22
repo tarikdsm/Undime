@@ -1,0 +1,8 @@
+[2m2026-06-22T16:46:49.407122Z[0m [31mERROR[0m tool_error: parse_failure [3msession_id[0m[2m=[0m019ef03a-34a3-7282-a72c-9065264c3070 [3mtool_name[0m[2m=[0m"Glob" [3mmodel_id[0m[2m=[0m"grok-composer-2.5-fast" [3merror_kind[0m[2m=[0m"parse_failure" [3merror_message[0m[2m=[0mTool not found: Glob
+{
+  "text": "I'll check what X search tools are available, then look for an official UNDIME Tocantins profile.\n",
+  "stopReason": "Cancelled",
+  "sessionId": "019ef03a-34a3-7282-a72c-9065264c3070",
+  "requestId": "7375ae90-ad5b-42c7-a072-57f9ed0a06fa",
+  "thought": "The user wants me to search X (Twitter) for an official UNDIME Tocantins profile. They mention I have an \"X search capability\" - let me check what MCP tools are available that might allow me to search X/Twitter.\n"
+}

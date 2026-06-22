@@ -1,0 +1,25 @@
+# UNDIME - Fóruns Estaduais 2026 (verificação de eventos RR)
+# data_coleta: 2026-06-22
+
+Fonte primária (timeout via WebFetch/Playwright/curl no dia 2026-06-22):
+  https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026
+  (pagina dinamica da undime.org.br nao respondeu a render/fetch automatizado neste dia;
+   somente o snapshot estatico de /noticia/seccionais respondeu.)
+
+Fonte espelho (conteudo identico, seccional UNDIME Bahia reproduzindo o artigo nacional):
+  https://undimebahia.com.br/2026/02/19/confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026/
+  Coletado via WebFetch em 2026-06-22.
+
+ACHADO RORAIMA:
+  A data do Forum Estadual da UNDIME Roraima em 2026 consta como "a definir".
+  RR esta na lista de estados SEM data confirmada (junto com AP, AM, MA, PA, PB, PI, RJ, TO).
+
+Datas confirmadas (referencia, outros estados):
+  Marco: MG 9-11 (BH), RN 18-20 (Natal), MS 23-24 (Campo Grande), SC 24-26 (Floripa), SE 26-27 (Aracaju)
+  Abril: BA 7-9, MT 8-10, PE 13-15, SP 14-16, CE 15-17, RO 15-16 (Jaru), GO 23-24, ES 28-29
+  Maio: PR 20-22, AC 27-29
+  Junho: RS 17-19
+  Julho: AL 14-16
+  A definir: AP, AM, MA, PA, PB, PI, RJ, RR, TO
+
+CONCLUSAO: Nenhum evento de RR com data >= 2026-06-22 confirmada. eventos[] vazio; lacuna registrada.

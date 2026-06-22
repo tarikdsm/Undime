@@ -1,0 +1,17 @@
+# FONTE: https://undime.org.br/noticia/seccionais (pagina viva)
+# Snapshot bruto: data/raw/BR/live_noticia_seccionais_20260622.html (baixado 2026-06-22, HTTP 200)
+# Reconferencia 2026-06-22: pagina viva https://undime.org.br/noticia/seccionais retornou ERRO de banco (Doctrine/EntityManager) na data; usado o snapshot vivo ja baixado hoje.
+# Bloco do AMAPA (texto decodificado de UTF-8/mojibake):
+# ----
+Amapá
+Presidente: Samuel dos Santos Silva
+Dirigente Municipal de Educação de Tatarugalzinho/ AP   [grafia da fonte; municipio = Tartarugalzinho/AP]
+Secretaria executiva: Silvia Helena Neves Barbosa
+Endereço: Av. FAB 3070 - Santa Rita - Macapá/ AP
+CEP: 68.9012-59   [grafado assim na fonte - CEP malformado; CEP real provavel 68.901-259 nao confirmado]
+Celular: (96) 9 9163-9331
+Endereço eletrônico: undimeap16@gmail.com
+# ----
+# Observacoes:
+# - "Tatarugalzinho" e grafia da fonte; o municipio do AP e Tartarugalzinho.
+# - CEP "68.9012-59" e claramente malformado na fonte oficial; nao normalizado por nao haver confirmacao.

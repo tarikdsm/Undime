@@ -1,0 +1,7 @@
+---
+pid: 4252
+cwd: "D:\Projetos TI\Allcanci\UNDIME"
+command: "curl.exe -sL -A \"Mozilla/5.0\" \"https://am.undime.org.br/\" 2>&1 | findstr /i \"twitter x.com instagram facebook\""
+started_at: 2026-06-22T16:44:55.722Z
+running_for_ms: 110007   
+---

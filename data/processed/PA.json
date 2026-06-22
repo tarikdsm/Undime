@@ -1,0 +1,214 @@
+{
+  "uf": "PA",
+  "nivel": "estadual",
+  "nome_oficial": {
+    "valor": "Undime Pará",
+    "fonte_url": "https://undime.org.br/noticia/seccionais",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "cnpj": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "fundacao": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "sede_endereco": {
+    "valor": "Rodovia Augusto Montenegro, km 10, s/n - CEP 66.820-000 - Belém/PA",
+    "fonte_url": "https://undime.org.br/noticia/seccionais",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "contato": {
+    "telefone": {
+      "valor": "(91) 96349790",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "email": {
+      "valor": "undimepara@gmail.com",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "site": {
+      "valor": "https://undime.org.br/noticia/seccionais",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "portal_estadual": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    }
+  },
+  "diretoria": {
+    "presidente": {
+      "nome": {
+        "valor": "Sandra Helena Ataíde de Lima",
+        "fonte_url": "https://undime.org.br/noticia/seccionais",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "municipio_origem": {
+        "valor": "Moju/PA (Dirigente Municipal de Educação de Moju). Também ocupa a Vice-Presidência da Região Norte na diretoria executiva nacional 2025-2027.",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    },
+    "secretaria_executiva": {
+      "valor": "Nair Cristine da Silva Mascarenhas",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "conselho_fiscal": [
+      {
+        "valor": "não localizado publicamente",
+        "fonte_url": "",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      }
+    ],
+    "outros": [
+      {
+        "valor": "não localizado publicamente",
+        "fonte_url": "",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      }
+    ]
+  },
+  "redes_sociais": {
+    "instagram": {
+      "valor": "https://www.instagram.com/undimepara/",
+      "fonte_url": "https://www.instagram.com/undimepara/",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    },
+    "facebook": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "x": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "youtube": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "linkedin": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "associados_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "municipios_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "financeiro": {
+    "receitas": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "contribuicoes": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "prestacao_contas_url": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "eventos": [
+    {
+      "titulo": {
+        "valor": "Fórum Estadual Extraordinário da Undime Pará 2026",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "data_inicio": {
+        "valor": "2026-07-02",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "data_fim": {
+        "valor": "2026-07-03",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "local": {
+        "valor": "Belém/PA",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "inscricao_url": {
+        "valor": "não localizado publicamente",
+        "fonte_url": "",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      },
+      "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026"
+    }
+  ],
+  "fontes_consultadas": [
+    "https://undime.org.br/noticia/seccionais",
+    "https://undime.org.br/noticia/diretoria",
+    "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+    "https://www.instagram.com/undimepara/"
+  ],
+  "lacunas": [
+    "cnpj",
+    "fundacao",
+    "contato.portal_estadual",
+    "diretoria.conselho_fiscal",
+    "diretoria.outros",
+    "redes_sociais.facebook",
+    "redes_sociais.x",
+    "redes_sociais.youtube",
+    "redes_sociais.linkedin",
+    "associados_num",
+    "municipios_num",
+    "financeiro.receitas",
+    "financeiro.contribuicoes",
+    "financeiro.prestacao_contas_url",
+    "eventos[0].inscricao_url"
+  ]
+}

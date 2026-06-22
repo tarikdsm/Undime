@@ -1,0 +1,2 @@
+Vou buscar no X agora via `grok.exe` (autenticado), sem consultar arquivos locais.
+

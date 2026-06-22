@@ -1,0 +1,21 @@
+Fonte: https://undime.org.br/noticia/seccionais (pagina viva de seccionais, HTTP 200)
+Snapshot tambem em: data/raw/BR/live_noticia_seccionais_20260622.html (linha 98, bloco Amazonas)
+Data de coleta: 2026-06-22
+
+Bloco literal do Amazonas extraido da pagina viva:
+---
+Amazonas
+Presidente: Marcus Lúcio de Sousa
+Dirigente Municipal de Educação de Tefé/ AM
+Secretaria executiva: Bruno Sizino da Silva Bezerra
+Av. Álvaro Maia, 2357, 10º andar, sala 1006 - Edifício Corporate Trade Center
+CEP: 69.057-035 – Manaus/ AM
+Fone: (92) 3232-1876
+Celular: (92) 98181-8471
+Endereço eletrônico: undime.am@gmail.com
+---
+
+Divergencia (fonte secundaria, desatualizada):
+- Conviva Educacao (20/05/2023) https://convivaeducacao.org.br/fique_atento/4160
+  listava presidente Antonia Rodrigues da Silva (Benjamin Constant/AM) e vice Libanio Cavalcante (Maues/AM),
+  eleitos no 7o Forum Estadual Ordinario (17-18/05/2023). Substituido pela diretoria atual da pagina viva.

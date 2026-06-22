@@ -1,0 +1,19 @@
+# Extrato UNDIME Roraima - bloco da pagina de Seccionais
+# Fonte primaria (HTTP 200 hoje): https://undime.org.br/noticia/seccionais
+# Snapshot vivo em disco: data/raw/BR/live_noticia_seccionais_20260622.html
+# data_coleta: 2026-06-22
+# confianca: alta (fonte oficial direta)
+
+Roraima
+Presidente: Alsione Sulbaran
+Dirigente Municipal de Educacao de Pacaraima/ RR
+
+Secretaria executiva
+Izabel Cristina D'avila Sampaio
+Avenida Venezuela, 2398 - Mercejana - Escola Estadual Ana Liboria
+CEP: 69.304-600 - Boa vista/RR
+Celular: (95) 9173-9132
+Endereco eletronico: undimerr@gmail.com
+
+# Observacao: RR NAO possui portal estadual proprio (sem linha "Portal:" no bloco).
+# Verificado tanto no snapshot Wayback 2026-02-03 quanto na pagina viva 2026-06-22 (identicos).

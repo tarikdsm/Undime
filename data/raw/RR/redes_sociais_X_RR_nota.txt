@@ -1,0 +1,26 @@
+# UNDIME Roraima - Redes sociais e X (Twitter)
+# data_coleta: 2026-06-22
+
+## Instagram (best-effort, publico)
+Candidato oficial localizado via WebSearch:
+  https://www.instagram.com/undime.rr/  (nome de exibicao "Undime Roraima (@undime.rr)")
+  Padrao de nomenclatura consistente com outras seccionais (undime.rn, undimerj, undimeal, etc.).
+  WebFetch da pagina nao retornou bio/texto (login wall do Instagram) -> confianca: media
+  (handle plausivelmente oficial pelo nome de exibicao e padrao, mas bio nao confirmada sem login).
+
+## X / Twitter
+grok -p (de /tmp): a busca interna do grok no X retornou tool_output_error; sem handle obtido.
+WebSearch: apenas a conta NACIONAL @undime (https://x.com/undime). Nenhum perfil dedicado da UNDIME RR.
+=> X da seccional RR: nao localizado publicamente.
+
+## Facebook / YouTube / LinkedIn
+Sem perfil dedicado da seccional RR localizado. Existe pagina/canal NACIONAL (facebook.com/undime,
+youtube.com/channel/UC1ZOhrZjfG2ymzUcCGyA12g), mas nao especificos de RR.
+=> nao localizado publicamente (para a seccional RR).
+
+## DIVERGENCIA registrada
+Um resumo de buscador (WebSearch) mencionou "Presidente Sueli Terezinha Magalhaes (Mucajai/RR)" e
+email "undime.rr@undime.org.br". ISSO CONTRADIZ a pagina oficial viva de seccionais (2026-06-22),
+que informa Presidente Alsione Sulbaran (Pacaraima/RR) e email undimerr@gmail.com.
+Regra do projeto: nao confiar em resumo de buscador; prevalece a fonte oficial direta.
+=> Adotados os dados da pagina oficial (Alsione Sulbaran / undimerr@gmail.com), confianca alta.

@@ -1,0 +1,61 @@
+### Candidato histórico (único usuário na busca "UNDIME Amazonas")
+
+| Campo | Achado |
+|---|---|
+| Handle | **@AmazonasUndime** |
+| Nome exibido | UndimeAmazonas |
+| URL do perfil | https://x.com/AmazonasUndime |
+| Criado em | julho/2020 |
+| Total de posts | 36 |
+| Seguidores | 9 |
+
+**Busca que retornou o perfil:** https://x.com/search?f=user&q=UNDIME+Amazonas&src=typed_query
+
+---
+
+### Handles testados — inexistentes ou indisponíveis
+
+- https://x.com/undimeam — conta indisponível
+- https://x.com/undimeamazonas — conta indisponível
+- https://x.com/undime_am — conta indisponível
+
+---
+
+### Últimas publicações (@AmazonasUndime)
+
+**Nenhuma publicação recente** (última em 17/12/2020). Busca `#UndimeAm` desde 01/01/2025: sem resultados — https://x.com/search?f=live&q=include%3Anativeretweets+since%3A2025-01-01+%23UndimeAm&src=typed_query
+
+1. **17/12/2020** — Mobilização pela votação do Fundeb na Câmara (10h). `#UndimeAm`  
+   https://x.com/AmazonasUndime/status/1339398291243606017
+
+2. **21/10/2020** — CAPES: 300 mil vagas em cursos virtuais para professores  
+   https://x.com/AmazonasUndime/status/1318898735481499649
+
+3. **21/10/2020** — Live "Abertura ao novo" (Programa Volta ao Novo)  
+   https://x.com/AmazonasUndime/status/1318896835436662784
+
+4. **01/09/2020** — Fórum UNDIME Norte "Conectando Saberes"  
+   https://x.com/AmazonasUndime/status/1300890572887134210
+
+5. **31/08/2020** — Encerramento de inscrições do Fórum Regional da UNDIME Norte (22h50)  
+   https://x.com/AmazonasUndime/status/1300448512568627202
+
+---
+
+### Eventos mencionados nos posts (todos de 2020)
+
+- **17/12/2020, 10h** — Votação do projeto de regulamentação do Fundeb na Câmara dos Deputados  
+  https://x.com/AmazonasUndime/status/1339398291243606017
+
+- **21/10/2020, 15h (Brasília)** — Live "Abertura ao novo: como educadores podem se adaptar às mudanças?" (Programa Volta ao Novo)  
+  https://x.com/AmazonasUndime/status/1318896835436662784
+
+- **02–03/09/2020** — Fórum Virtual "Conecta – Educação em Contextos" (UNDIME Região Norte), transmissão no YouTube  
+  https://x.com/undime/status/1301131987122610178 (RT por @AmazonasUndime)
+
+- **31/08/2020, 22h50** — Encerramento de inscrições do Fórum Regional da UNDIME Norte  
+  https://x.com/AmazonasUndime/status/1300448512568627202
+
+**Nenhum evento de 2026 ou posterior localizado no X para a UNDIME AM.**Vou conferir a saída do comando em background para ver se o portal da UNDIME AM lista redes sociais.
+
+Fonte: grok -p (busca no X), coletado 2026-06-22

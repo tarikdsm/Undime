@@ -1,0 +1,1 @@
+# Fonte: chamada local 'grok -p' para busca no X em 2026-06-22. Resultado: Cancelled (grok sem ferramenta de busca X exposta).

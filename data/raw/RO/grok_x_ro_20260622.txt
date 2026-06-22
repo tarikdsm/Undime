@@ -1,0 +1,2 @@
+Vou pesquisar o perfil oficial da UNDIME Rondônia no X — primeiro verifico o que já existe no projeto e como usar o `grok.exe` autenticado.
+

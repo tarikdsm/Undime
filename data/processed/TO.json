@@ -1,0 +1,175 @@
+{
+  "uf": "TO",
+  "nivel": "estadual",
+  "nome_oficial": {
+    "valor": "UNDIME Tocantins (Undime/TO) - União Nacional dos Dirigentes Municipais de Educação, seccional do Tocantins",
+    "fonte_url": "https://undime.org.br/noticia/seccionais",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "cnpj": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "https://undime.org.br/noticia/seccionais",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "fundacao": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "https://undime.org.br/noticia/seccionais",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "sede_endereco": {
+    "valor": "Av. Teotônio Segurado 301 Norte, Conjunto 1, Lote 9 - CEP 77.001-226 - Palmas/TO",
+    "fonte_url": "https://undime.org.br/noticia/seccionais",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "contato": {
+    "telefone": {
+      "valor": "(63) 3026-1480 (fixo) | (63) 99938-8453 (celular institucional)",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "email": {
+      "valor": "undimeto@gmail.com",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "site": {
+      "valor": "https://undime.org.br/noticia/seccionais",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "portal_estadual": {
+      "valor": "https://to.undime.org.br/",
+      "fonte_url": "https://to.undime.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    }
+  },
+  "diretoria": {
+    "presidente": {
+      "nome": {
+        "valor": "Humberto de Campos Castilho",
+        "fonte_url": "https://undime.org.br/noticia/07-04-2025-22-41-undime-tocantins-elege-nova-diretoria-para-o-bienio-2025-2027-durante-forum-ordinario",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "municipio_origem": {
+        "valor": "Sucupira/TO (Dirigente Municipal de Educação / Secretário de Educação de Sucupira). Eleito para o biênio 2025/2027 (XIV Fórum Ordinário, 04/04/2025, chapa única 'Municípios Unidos por uma Educação Melhor'). Desde o 20º Fórum Nacional (jul/2025) integra a diretoria nacional responsável por articulações com MEC, Congresso Nacional e outras entidades.",
+        "fonte_url": "https://undime.org.br/noticia/07-04-2025-22-41-undime-tocantins-elege-nova-diretoria-para-o-bienio-2025-2027-durante-forum-ordinario",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    },
+    "secretaria_executiva": {
+      "valor": "Rute Soares Rodrigues",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "conselho_fiscal": [],
+    "outros": [
+      {
+        "valor": "Wesley Portugal Lima - Vice-presidente (Dirigente Municipal de Educação de Cristalândia/TO), biênio 2025/2027",
+        "fonte_url": "https://undime.org.br/noticia/07-04-2025-22-41-undime-tocantins-elege-nova-diretoria-para-o-bienio-2025-2027-durante-forum-ordinario",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    ]
+  },
+  "redes_sociais": {
+    "instagram": {
+      "valor": "https://www.instagram.com/undimetocantins/ (@undimetocantins - 'UndimeTo', Palmas/TO)",
+      "fonte_url": "https://www.instagram.com/undimetocantins/",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    },
+    "facebook": {
+      "valor": "https://www.facebook.com/undimeto/ ('Undime Tocantins | Palmas TO')",
+      "fonte_url": "https://www.facebook.com/undimeto/",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    },
+    "x": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "youtube": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "linkedin": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "associados_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "https://undime.org.br/noticia/seccionais",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "municipios_num": {
+    "valor": "139 (universo de municípios do estado do Tocantins; nº de municípios associados à Undime/TO não foi especificado publicamente)",
+    "fonte_url": "https://undime.org.br/noticia/07-04-2025-22-41-undime-tocantins-elege-nova-diretoria-para-o-bienio-2025-2027-durante-forum-ordinario",
+    "data_coleta": "2026-06-22",
+    "confianca": "media"
+  },
+  "financeiro": {
+    "receitas": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "contribuicoes": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "prestacao_contas_url": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "eventos": [],
+  "fontes_consultadas": [
+    "https://undime.org.br/noticia/seccionais",
+    "https://undime.org.br/noticia/07-04-2025-22-41-undime-tocantins-elege-nova-diretoria-para-o-bienio-2025-2027-durante-forum-ordinario",
+    "https://www.sucupira.to.gov.br/sucupira-e-destaque-com-secretario-de-educacao-eleito-presidente-da-undime-to-para-o-mandato-2025-2027/",
+    "https://to.undime.org.br/",
+    "https://to.undime.org.br/diretoria/",
+    "https://to.undime.org.br/noticia/06-08-2025-20-06-presidente-da-undime-tocantins-assume-novas-atribuicoes-na-diretoria-nacional-durante-o-20o-forum-nacional-da-undime",
+    "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+    "https://www.instagram.com/undimetocantins/",
+    "https://www.facebook.com/undimeto/"
+  ],
+  "lacunas": [
+    "cnpj",
+    "fundacao",
+    "diretoria.conselho_fiscal",
+    "redes_sociais.x",
+    "redes_sociais.youtube",
+    "redes_sociais.linkedin",
+    "associados_num",
+    "municipios_num",
+    "financeiro.receitas",
+    "financeiro.contribuicoes",
+    "financeiro.prestacao_contas_url",
+    "eventos"
+  ]
+}
