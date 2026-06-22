@@ -1,0 +1,228 @@
+{
+  "uf": "PE",
+  "nivel": "estadual",
+  "nome_oficial": {
+    "valor": "União dos Dirigentes Municipais de Educação de Pernambuco (Undime Pernambuco)",
+    "fonte_url": "https://undimepe.org.br/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "cnpj": {
+    "valor": "12.859.161/0001-14",
+    "fonte_url": "https://undimepe.org.br/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "fundacao": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "sede_endereco": {
+    "valor": "Empresarial Kronos, Rua das Pernambucanas, 407 - Sala 806, Graças, Recife - PE, CEP 52011-010",
+    "fonte_url": "https://undimepe.org.br/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "contato": {
+    "telefone": {
+      "valor": "(81) 3251-6213 / Celular (81) 98639-2865 / (81) 99877-7239",
+      "fonte_url": "https://undimepe.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "email": {
+      "valor": "undimepe@gmail.com",
+      "fonte_url": "https://undimepe.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "site": {
+      "valor": "https://undimepe.org.br/",
+      "fonte_url": "https://undimepe.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "portal_estadual": {
+      "valor": "https://undimepe.org.br/",
+      "fonte_url": "https://undimepe.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    }
+  },
+  "diretoria": {
+    "presidente": {
+      "nome": {
+        "valor": "Andreika Asseker Amarante",
+        "fonte_url": "https://undimepe.org.br/institucional/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "municipio_origem": {
+        "valor": "Igarassu/PE (Dirigente Municipal de Educação de Igarassu)",
+        "fonte_url": "https://undimepe.org.br/institucional/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    },
+    "secretaria_executiva": {
+      "valor": "Maria do Socorro de Araújo Gomes",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    },
+    "conselho_fiscal": [
+      {
+        "valor": "Maria Cilene Belarmino de Paula - DME de Tracunhaém/PE",
+        "fonte_url": "https://undimepe.org.br/institucional/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Carlos César de Lima - DME de Ipubi/PE",
+        "fonte_url": "https://undimepe.org.br/institucional/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Antônio Marcos Coutinho - DME de Rio Formoso/PE",
+        "fonte_url": "https://undimepe.org.br/institucional/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    ],
+    "outros": [
+      {
+        "valor": "Vice-Presidente: José Fernando de Melo - DME de Belém de Limoeiro/PE (município conforme grafia do portal)",
+        "fonte_url": "https://undimepe.org.br/institucional/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretaria de Coordenação Técnica: Maria Elza da Silva - DME de Bonito/PE",
+        "fonte_url": "https://undimepe.org.br/institucional/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretaria de Finanças: Ecléia Karla Gomes de Lima da Silva - DME de São Caetano/PE",
+        "fonte_url": "https://undimepe.org.br/institucional/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretaria de Articulação: Leutânia Gomes de Oliveira - DME de Ibimirim/PE",
+        "fonte_url": "https://undimepe.org.br/institucional/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretaria de Assuntos Jurídicos: Rosane da Costa Santos - DME de Petrolina/PE",
+        "fonte_url": "https://undimepe.org.br/institucional/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretaria de Comunicação: Isaltino José do Nascimento Filho - DME do Cabo de Santo Agostinho/PE",
+        "fonte_url": "https://undimepe.org.br/institucional/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Conselho Nacional de Representantes: Andreika Asseker Amarante (Igarassu/PE); Elizângela Maria das Neves Lopes (Palmares/PE); Claudison Vieira de Albuquerque (Feira Nova/PE); Wivianne Fonseca da Silva Almeida (Afogados da Ingazeira/PE)",
+        "fonte_url": "https://undimepe.org.br/institucional/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    ]
+  },
+  "redes_sociais": {
+    "instagram": {
+      "valor": "https://www.instagram.com/undime.pernambuco/",
+      "fonte_url": "https://undimepe.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "facebook": {
+      "valor": "https://pt-br.facebook.com/undimepernambuco",
+      "fonte_url": "https://undimepe.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "x": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "youtube": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "linkedin": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "associados_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "municipios_num": {
+    "valor": "184 municípios do Estado de Pernambuco (universo de atuação da seccional; corresponde ao total de municípios do estado)",
+    "fonte_url": "https://undimepe.org.br/institucional/inscricoes-abertas-para-o-forum-extraordinario-da-undime-pe-2026",
+    "data_coleta": "2026-06-22",
+    "confianca": "media"
+  },
+  "financeiro": {
+    "receitas": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "contribuicoes": {
+      "valor": "Anuidade 2026 mencionada em contexto de evento (sem valor de tabela publicado): municípios em dia pagam preço promocional de inscrição no fórum; valor da anuidade em si não divulgado publicamente",
+      "fonte_url": "https://undimepe.org.br/institucional/inscricoes-abertas-para-o-forum-extraordinario-da-undime-pe-2026",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "prestacao_contas_url": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "eventos": [],
+  "fontes_consultadas": [
+    "https://undimepe.org.br/",
+    "https://undimepe.org.br/institucional/sobre",
+    "https://undimepe.org.br/institucional/diretoria",
+    "https://undimepe.org.br/institucional/inscricoes-abertas-para-o-forum-extraordinario-da-undime-pe-2026",
+    "https://forum.undimepe.org.br/",
+    "https://undime.org.br/noticia/seccionais",
+    "https://web.archive.org/web/20260203052559/https://undime.org.br/noticia/seccionais",
+    "https://undime.org.br/noticia/diretoria",
+    "https://www.instagram.com/undime.pernambuco/",
+    "https://pt-br.facebook.com/undimepernambuco"
+  ],
+  "lacunas": [
+    "fundacao",
+    "redes_sociais.x",
+    "redes_sociais.youtube",
+    "redes_sociais.linkedin",
+    "associados_num",
+    "financeiro.receitas",
+    "financeiro.contribuicoes",
+    "financeiro.prestacao_contas_url",
+    "eventos (nenhum evento com data >= 2026-06-22; Fórum Extraordinário PE 2026 ocorreu em 13-15/abril/2026, anterior ao corte)"
+  ]
+}

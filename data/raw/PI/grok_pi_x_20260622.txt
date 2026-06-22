@@ -1,0 +1,2 @@
+Vou pesquisar no X o perfil oficial da UNDIME Piauí — primeiro verifico o contexto do projeto e como usar o `grok.exe` para buscar no X.
+

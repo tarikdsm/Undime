@@ -1,0 +1,182 @@
+{
+  "uf": "RN",
+  "nivel": "estadual",
+  "nome_oficial": {
+    "valor": "Undime Rio Grande do Norte (União Nacional dos Dirigentes Municipais de Educação - Seccional Rio Grande do Norte)",
+    "fonte_url": "https://undime.org.br/noticia/seccionais",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "cnpj": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "fundacao": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "sede_endereco": {
+    "valor": "Centro Administrativo - Secretaria de Estado da Educação e da Cultura - Bloco 2, térreo, Lagoa Nova, CEP 59064-901 - Natal/RN",
+    "fonte_url": "https://undime.org.br/noticia/seccionais",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "contato": {
+    "telefone": {
+      "valor": "(84) 99182-9468 / (84) 98896-6313 (celular)",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "email": {
+      "valor": "undime.rn@gmail.com",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "site": {
+      "valor": "https://rn.undime.org.br/",
+      "fonte_url": "https://rn.undime.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "portal_estadual": {
+      "valor": "https://rn.undime.org.br/ (subdomínio do portal nacional; em 2026-06-22 estava intermitente, com erro de backend. Domínios undimern.org.br e www.undimern.org.br NÃO existem/não resolvem)",
+      "fonte_url": "https://rn.undime.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    }
+  },
+  "diretoria": {
+    "presidente": {
+      "nome": {
+        "valor": "Petrúcio de Lima Ferreira",
+        "fonte_url": "https://undime.org.br/noticia/seccionais",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "municipio_origem": {
+        "valor": "Goianinha/RN (Dirigente Municipal de Educação de Goianinha)",
+        "fonte_url": "https://undime.org.br/noticia/seccionais",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    },
+    "secretaria_executiva": {
+      "valor": "Euba Nadja Pessoa Reis de Lima",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "conselho_fiscal": [
+      {
+        "valor": "não localizado publicamente",
+        "fonte_url": "",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      }
+    ],
+    "outros": [
+      {
+        "valor": "Petrúcio de Lima Ferreira acumula a Presidência da Região Nordeste na Diretoria Executiva NACIONAL da Undime (gestão 2025-2027)",
+        "fonte_url": "https://undime.org.br/institucional/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    ]
+  },
+  "redes_sociais": {
+    "instagram": {
+      "valor": "https://www.instagram.com/undime.rn/ (@undime.rn)",
+      "fonte_url": "https://www.instagram.com/undime.rn/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "facebook": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "x": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "youtube": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "linkedin": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "associados_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "municipios_num": {
+    "valor": "167 (municípios potiguares; a conta oficial @undime.rn declara atuação nos 167 municípios do RN — total de municípios do estado, não necessariamente nº de filiados pagantes)",
+    "fonte_url": "https://www.instagram.com/undime.rn/",
+    "data_coleta": "2026-06-22",
+    "confianca": "media"
+  },
+  "financeiro": {
+    "receitas": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "contribuicoes": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "prestacao_contas_url": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "eventos": [],
+  "fontes_consultadas": [
+    "https://undime.org.br/noticia/seccionais",
+    "https://undime.org.br/institucional/diretoria",
+    "https://rn.undime.org.br/",
+    "https://www.instagram.com/undime.rn/",
+    "https://undimebahia.com.br/2026/02/19/confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026/",
+    "https://rn.undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+    "https://undime.org.br/noticia/22-02-2025-03-10-undime-rio-grande-do-norte-elege-nova-diretoria",
+    "grok -p (busca no X, single-turn, 2026-06-22)",
+    "https://www.facebook.com/undime.rn"
+  ],
+  "lacunas": [
+    "cnpj",
+    "fundacao",
+    "conselho_fiscal",
+    "associados_num",
+    "financeiro.receitas",
+    "financeiro.contribuicoes",
+    "financeiro.prestacao_contas_url",
+    "redes_sociais.facebook",
+    "redes_sociais.x",
+    "redes_sociais.youtube",
+    "redes_sociais.linkedin",
+    "eventos (nenhum evento RN com data >= 2026-06-22; Fórum Estadual 2026 foi em 18-20/03/2026, anterior ao corte)"
+  ]
+}

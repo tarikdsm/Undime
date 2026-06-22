@@ -1,0 +1,8 @@
+Vou pesquisar no X o perfil oficial da UNDIME Sergipe — começando pelas instruções do projeto e pela ferramenta local autenticada para Twitter.
+
+
+
+=== ORIGEM ===
+comando: grok -p "Pesquise no X o perfil oficial e posts recentes da UNDIME Sergipe..."
+data_coleta: 2026-06-22
+resultado: modo headless retornou apenas preambulo; sem conteudo de X utilizavel.

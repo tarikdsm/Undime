@@ -1,0 +1,14 @@
+FONTE: https://www.instagram.com/undime.rn/
+data_coleta: 2026-06-22
+Método: Playwright MCP (browser_navigate + browser_evaluate sobre meta tags)
+
+Page Title: Undime RN (@undime.rn) • Fotos e vídeos do Instagram
+
+og:description: "14K seguidores, seguindo 358, 2,421 posts — Veja as fotos e vídeos de Undime RN (@undime.rn)"
+
+meta description: "14K seguidores, 358 seguindo, 2,421 posts — Undime RN (@undime.rn) no Instagram: \"📚 Defendemos Educação Pública de Qualidade nos 167 municípios Potiguares.\""
+
+ACHADOS:
+- Handle oficial confirmado: @undime.rn
+- Bio menciona 167 municípios potiguares (= total de municípios do RN).
+- ~14 mil seguidores, 2.421 posts (2026-06-22).
