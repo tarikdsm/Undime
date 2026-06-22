@@ -13,7 +13,7 @@ Coletar dados públicos e gravar:
 ## Fontes (nesta ordem; sem fontes pagas)
 1. **Oficial:** `undime.org.br` (+ `/seccionais/`) e portal estadual próprio (ex.: `go.undime.org.br`). Extraia cadastrais, contato, diretoria, eventos.
 2. **Web aberta:** WebSearch/WebFetch e, quando precisar de render, os MCPs Playwright/Chrome DevTools — para notícias, nº de municípios/associados, prestação de contas.
-3. **X:** chame via Bash `grok --prompt "Pesquise no X perfis e posts recentes da UNDIME <estado>: handle oficial, últimas publicações, eventos. Liste com URLs."` e registre links + achados.
+3. **X:** chame via Bash `grok -p "Pesquise no X perfis e posts recentes da UNDIME <estado>: handle oficial, últimas publicações, eventos. Liste com URLs."` (modo headless single-turn; a flag é `-p/--single`, **não** `--prompt`) e registre links + achados.
 4. **Meta/LinkedIn/YouTube:** localize e registre os **links oficiais públicos**; extraia só conteúdo público (best-effort). **Não burlar login nem ToS.**
 
 ## Regras (inegociáveis — ver CLAUDE.md)
