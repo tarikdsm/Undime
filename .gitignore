@@ -5,6 +5,9 @@ package-lock.json
 # Cache de schemas de MCP (gerado automaticamente)
 mcps/
 
+# Saída do Playwright MCP
+.playwright-mcp/
+
 # Build / Playwright
 test-results/
 playwright-report/
