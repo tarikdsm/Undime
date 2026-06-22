@@ -1,5 +1,5 @@
 // home.js — monta a home a partir do undime.json
-import { getData, UF_NOME, campo, row, esc, badge, proximosEventos } from "./data.js";
+import { getData, UF_NOME, campo, row, esc, badge, isHttp, urlOf, proximosEventos } from "./data.js";
 import { initMap } from "./map.js";
 import { announce } from "./a11y.js";
 
@@ -41,8 +41,8 @@ function renderEventos(data) {
     const t = campo(e.titulo), di = campo(e.data_inicio), loc = campo(e.local), insc = campo(e.inscricao_url);
     const f = fmtData(di.valor);
     const nome = uf === "BR" ? "Nacional" : (UF_NOME[uf] || uf);
-    const link = !insc.missing ? ` · <a href="${esc(insc.valor)}" target="_blank" rel="noopener noreferrer">inscrição ↗</a>` : "";
-    const src = e.fonte_url ? `<a class="src-link" href="${esc(e.fonte_url)}" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">fonte</span></a>` : "";
+    const link = isHttp(insc.valor) ? ` · <a href="${esc(urlOf(insc.valor))}" target="_blank" rel="noopener noreferrer">inscrição ↗</a>` : "";
+    const src = isHttp(e.fonte_url) ? `<a class="src-link" href="${esc(urlOf(e.fonte_url))}" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">fonte</span></a>` : "";
     return `<article class="event"><div class="when" aria-hidden="true"><b>${esc(f.dia || "•")}</b>${esc(f.mes)}</div>` +
       `<div class="what"><h3>${esc(t.valor)} ${badge(di.confianca)}</h3>` +
       `<p class="muted"><span class="uf-tag mono">${esc(nome)}</span> · ${esc(loc.valor)} · ${esc(f.dia ? f.dia + " " : "")}${esc(f.mes)}${link} ${src}</p></div></article>`;

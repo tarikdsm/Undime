@@ -14,6 +14,8 @@ const UF_NOME = {
 };
 
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+const urlOf = (s) => (String(s || "").match(/^https?:\/\/[^\s]+/) || [""])[0]; // 1ª URL limpa (ignora texto anexado)
+const isHttp = (u) => !!urlOf(u);
 function campo(c) {
   const v = c && typeof c === "object" ? c : {};
   const valor = v.valor ?? "não localizado publicamente";
@@ -26,7 +28,9 @@ const badge = (conf) => { const k = ["alta","media","baixa"].includes(conf) ? co
 function row(label, raw, opts = {}) {
   const c = campo(raw);
   const val = c.missing ? `<span class="v-missing">${esc(c.valor)}</span>` : esc(c.valor);
-  const src = c.fonte_url ? `<a class="src-link" href="${esc(c.fonte_url)}" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">fonte (abre em nova aba)</span></a>` : "";
+  const src = isHttp(c.fonte_url)
+    ? `<a class="src-link" href="${esc(urlOf(c.fonte_url))}" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">fonte (abre em nova aba)</span></a>`
+    : (c.fonte_url ? `<span class="collected" title="fonte (registro local)">fonte: ${esc(c.fonte_url)}</span>` : "");
   const when = c.data_coleta ? `<time class="collected" datetime="${esc(c.data_coleta)}" title="coletado em">${esc(c.data_coleta)}</time>` : "";
   return `<div class="data-row"><div class="label">${esc(label)}</div><div class="value${opts.data ? " is-data" : ""}">${val} ${badge(c.confianca)} ${src} ${when}</div></div>`;
 }
@@ -46,7 +50,7 @@ function eventosHTML(u) {
     const m = String(di.valor).match(/(\d{4})-(\d{2})(?:-(\d{2}))?/);
     const when = m ? `<b>${m[3] || "•"}</b>${meses[+m[2]-1]}/${m[1]}` : `<b>•</b>${esc(di.valor)}`;
     const link = !insc.missing ? ` · <a href="${esc(insc.valor)}" target="_blank" rel="noopener noreferrer">inscrição ↗</a>` : "";
-    const src = e.fonte_url ? `<a class="src-link" href="${esc(e.fonte_url)}" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">fonte</span></a>` : "";
+    const src = isHttp(e.fonte_url) ? `<a class="src-link" href="${esc(urlOf(e.fonte_url))}" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">fonte</span></a>` : "";
     return `<article class="event"><div class="when" aria-hidden="true">${when}</div><div class="what"><h3>${esc(t.valor)} ${badge(di.confianca)}</h3><p class="muted">${esc(loc.valor)}${link} ${src}</p></div></article>`;
   }).join("");
 }
@@ -54,7 +58,12 @@ function eventosHTML(u) {
 function mainHTML(u) {
   const nome = campo(u.nome_oficial).valor;
   const r = u.redes_sociais || {}, c = u.contato || {}, d = u.diretoria || {}, f = u.financeiro || {};
-  const fontes = (u.fontes_consultadas || []).map((x) => `<li><a href="${esc(x)}" target="_blank" rel="noopener noreferrer">${esc(x)}</a></li>`).join("") || "<li class='muted'>não localizado publicamente</li>";
+  const fontes = (u.fontes_consultadas || []).map((x) => {
+    const u0 = urlOf(x);
+    if (!u0) return `<li class="muted" title="registro local de proveniência">${esc(x)}</li>`;
+    const rest = String(x).slice(u0.length).trim();
+    return `<li><a href="${esc(u0)}" target="_blank" rel="noopener noreferrer">${esc(u0)}</a>${rest ? ` <span class="muted">${esc(rest)}</span>` : ""}</li>`;
+  }).join("") || "<li class='muted'>não localizado publicamente</li>";
   const lacunas = (u.lacunas || []).map((x) => `<li>${esc(x)}</li>`).join("") || "<li class='muted'>—</li>";
   return `
   <p class="crumb"><a href="../index.html">Brasil</a> › ${esc(u.uf)}</p>

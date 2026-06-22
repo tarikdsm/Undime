@@ -1,7 +1,8 @@
 /* components.css — header, hero, mapa, cards, data-rows, badges, tooltip, footer */
 
 /* Header */
-.site-header { position: sticky; top: 0; z-index: 20; background: color-mix(in srgb, var(--color-surface) 88%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--color-line); }
+.site-header { position: sticky; top: 0; z-index: 20; background: color-mix(in srgb, var(--color-surface) 88%, transparent); -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px); border-bottom: 1px solid var(--color-line); }
+@supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) { .site-header { background: var(--color-surface); } }
 .site-header .bar { display: flex; align-items: center; gap: 1rem; padding-block: .7rem; }
 .wordmark { font-family: var(--font-display); font-weight: 700; font-size: var(--step-1); letter-spacing: -.01em; color: var(--color-ink); text-decoration: none; }
 .wordmark b { color: var(--color-accent); }

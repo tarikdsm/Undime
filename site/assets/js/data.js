@@ -18,6 +18,9 @@ export async function getData() {
   return _cache;
 }
 
+export const urlOf = (s) => (String(s || "").match(/^https?:\/\/[^\s]+/) || [""])[0];
+export const isHttp = (u) => !!urlOf(u);
+
 export function esc(s) {
   return String(s ?? "").replace(/[&<>"']/g, (c) =>
     ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -43,9 +46,9 @@ export function row(label, rawCampo, opts = {}) {
   const valHTML = c.missing
     ? `<span class="v-missing">${esc(c.valor)}</span>`
     : esc(c.valor);
-  const src = c.fonte_url
-    ? `<a class="src-link" href="${esc(c.fonte_url)}" target="_blank" rel="noopener noreferrer" title="Abre a fonte em nova aba"><span class="visually-hidden">fonte (abre em nova aba)</span></a>`
-    : "";
+  const src = isHttp(c.fonte_url)
+    ? `<a class="src-link" href="${esc(urlOf(c.fonte_url))}" target="_blank" rel="noopener noreferrer" title="Abre a fonte em nova aba"><span class="visually-hidden">fonte (abre em nova aba)</span></a>`
+    : (c.fonte_url ? `<span class="collected" title="fonte (registro local)">fonte: ${esc(c.fonte_url)}</span>` : "");
   const when = c.data_coleta ? `<time class="collected" datetime="${esc(c.data_coleta)}" title="coletado em">${esc(c.data_coleta)}</time>` : "";
   return `<div class="data-row"><div class="label">${esc(label)}</div>` +
     `<div class="value${opts.data ? " is-data" : ""}">${valHTML} ${badge(c.confianca)} ${src} ${when}</div></div>`;

@@ -260,3 +260,40 @@ Para travar a integridade em CI antes do deploy (Fase 6), adicionar um teste que
 5. Todos os CNPJs presentes passam no dígito verificador.
 
 (O harness desta auditoria já implementa 1-5 em Node e pode ser convertido em teste.)
+
+---
+
+# Fase 5 — Auditoria independente do site (2026-06-22)
+
+## Link-check
+- **Internos:** 213 referências (HTML/CSS/JS) verificadas no site gerado — **0 quebradas**.
+- **Bug encontrado e CORRIGIDO:** alguns `fonte_url` e itens de `fontes_consultadas[]` não eram URLs http (caminhos locais `data/raw/...`, prosa, ou URL com texto anexado tipo `https://undime.org.br/ (Fóruns…)`). O site os renderizava como `href` quebrado.
+  - Correção: renderização passa a linkar **apenas** URLs http, extraindo a URL limpa (`urlOf`); o restante vira texto de proveniência (sem link). Aplicado em `site/scripts/build.mjs`, `assets/js/data.js`, `assets/js/home.js`.
+  - **Regressão:** `tests/site-links.mjs` (0 links internos quebrados; 0 href http malformado).
+- **Externos (fontes):** 166 hrefs http únicos. Redes sociais (45) não são verificáveis por automação (bloqueio de bots — 403/999 esperado; perfis confirmados na Fase 2). Não-sociais (98) respondem 200/302. **Indisponíveis no momento da auditoria — disponibilidade da fonte, não bug do site:** `undime.org.br` e subdomínios `<uf>.undime.org.br` (al/ce/ma/pi/rj/rn) intermitentes; `undimers.org.br` 500; `undimepb.org.br` 406 (ModSecurity bloqueia curl, site OK via navegador); `unicef.org` 403; `cnpj.linkana.com`/`ferrazweb` bloqueio/erro; `github.com/tarikdsm/Undime` 404 (repositório será criado na Fase 6).
+
+## Lighthouse (Chrome headless, categorias Performance + Acessibilidade)
+| Página | Performance | Acessibilidade | Falhas a11y |
+|--------|:-----------:|:--------------:|-------------|
+| Home (`index.html`) | **98** | **100** | nenhuma |
+| Estado (`estados/sc.html`) | **100** | **100** | nenhuma |
+
+Ambas acima da meta (≥ 90).
+
+## Responsividade (Playwright)
+- **375 px (mobile):** coluna única, hero legível, mapa abaixo, lista de estados acessível. ✓
+- **768 px (tablet):** coluna única com mapa ampliado. ✓
+- **1280 px (desktop):** layout em duas colunas (mapa + busca/lista). ✓
+
+## Cross-browser
+- **Verificado:** Chromium (Playwright — render, mapa, busca, navegação, 0 erros de console) e Chrome (Lighthouse).
+- **Firefox/Safari:** engines não disponíveis no ambiente de automação desta sessão. Mitigação: revisão de código para compatibilidade — apenas recursos padrão (CSS Grid, custom properties, `clamp`, `:focus-visible`, ES modules, `fetch`); adicionado `-webkit-backdrop-filter` + fallback `@supports` para Safari; sem APIs específicas de engine. Recomenda-se verificação manual final em Firefox/Safari antes de divulgação ampla.
+
+## Itens de confiança baixa para validação manual do usuário (recap)
+1. **BR** — `financeiro.prestacao_contas_url` (sem URL direta confirmada).
+2. **AM** — X `@AmazonasUndime` (inativo desde 2020; titularidade não confirmada).
+3. **ES** — composição detalhada da diretoria executiva 2025-2027 (não localizada).
+4. **PE** — `financeiro.contribuicoes` (anuidade sem tabela publicada).
+
+## Veredito da Fase 5
+Site **aprovado**: navegação íntegra (0 links internos quebrados), acessibilidade 100, performance ≥ 98, responsivo. Pendências remanescentes são de **disponibilidade de fontes oficiais** (infra da UNDIME) e lacunas best-effort já documentadas — nenhuma é dado inventado.
