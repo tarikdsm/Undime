@@ -36,3 +36,6 @@ data/geo/*.geojson
 
 # Screenshots de evidencia na raiz
 /*.png
+
+# temporarios
+*.tmp
