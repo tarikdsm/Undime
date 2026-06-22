@@ -1,0 +1,23 @@
+# Dependências
+node_modules/
+package-lock.json
+
+# Build / Playwright
+test-results/
+playwright-report/
+.cache/
+
+# Ambiente / segredos
+.env
+.env.*
+*.local
+
+# SO / editores
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
