@@ -25,6 +25,17 @@
   estrutura Assomasul. Instáveis/HTTP 500: AC, CE, GO, MA, PI, RJ, RN, RS, ES (`es.undime.org.br`). Sem portal:
   AM, AP, PA, RO, RR, SE, TO. (Detalhe e divergências em `docs/CONSOLIDACAO.md`.)
 
+## Continuidade (parada em 2026-06-22, fim do dia)
+Projeto **completo e no ar**: https://tarikdsm.github.io/Undime/ · repo https://github.com/tarikdsm/Undime · `origin/main` sincronizado.
+Pós-deploy: enriquecido com `busca_AGY.md` (CNPJ 26/27, redes, fundações, eventos) e corrigidos eventos duplicados/ordenação.
+
+**Aberto para retomar:**
+- Itens **confiança média** vindos do AGY (CNPJs de registros/aggregadores, redes) — re-confirmar em fonte primária quando possível.
+- **AP**: CNPJ não localizado (único faltante).
+- Validação manual em **Firefox/Safari** (não disponíveis na automação).
+- Reexecutar coleta quando `undime.org.br` estiver estável (infra oscila).
+- Como rodar local: `node site/scripts/build.mjs` e servir `site/` (ex.: servidor estático na 8099). Testes: `node tests/integrity.mjs` e `node tests/site-links.mjs`.
+
 ## Arquitetura do site (a detalhar na Fase 3/4)
 - Estático, dados de `site/assets/data/undime.json`.
 - Home: mapa SVG do Brasil + busca/filtro + eventos nacionais + dados da nacional.
