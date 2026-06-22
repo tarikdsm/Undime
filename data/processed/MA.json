@@ -1,0 +1,200 @@
+{
+  "uf": "MA",
+  "nivel": "estadual",
+  "nome_oficial": {
+    "valor": "Undime Maranhão (União Nacional dos Dirigentes Municipais de Educação - Seccional Maranhão)",
+    "fonte_url": "https://undime.org.br/seccionais/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "cnpj": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "fundacao": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "sede_endereco": {
+    "valor": "Av. dos Holandeses, casa 6, Calhau, CEP 65.071-380, São Luís/MA",
+    "fonte_url": "https://undime.org.br/seccionais/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "contato": {
+    "telefone": {
+      "valor": "(99) 98111-5737",
+      "fonte_url": "https://undime.org.br/seccionais/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "email": {
+      "valor": "undimemaranhao@gmail.com",
+      "fonte_url": "https://undime.org.br/seccionais/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "site": {
+      "valor": "https://undime.org.br/",
+      "fonte_url": "https://undime.org.br/seccionais/",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    },
+    "portal_estadual": {
+      "valor": "https://ma.undime.org.br/",
+      "fonte_url": "https://ma.undime.org.br/portal/secretaria/visualizar",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    }
+  },
+  "diretoria": {
+    "presidente": {
+      "nome": {
+        "valor": "Karla Janys Lima Nascimento",
+        "fonte_url": "https://undime.org.br/seccionais/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "municipio_origem": {
+        "valor": "Açailândia/MA (Dirigente Municipal de Educação)",
+        "fonte_url": "https://undime.org.br/seccionais/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    },
+    "secretaria_executiva": {
+      "valor": "Emília Georgia Santos Alves Lustosa",
+      "fonte_url": "https://undime.org.br/seccionais/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "conselho_fiscal": [],
+    "outros": []
+  },
+  "redes_sociais": {
+    "instagram": {
+      "valor": "https://www.instagram.com/undimemaranhao/",
+      "fonte_url": "https://www.instagram.com/undimemaranhao/",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    },
+    "facebook": {
+      "valor": "https://pt-br.facebook.com/Undimema/",
+      "fonte_url": "https://pt-br.facebook.com/Undimema/",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    },
+    "x": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "youtube": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "linkedin": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "associados_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "municipios_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "financeiro": {
+    "receitas": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "contribuicoes": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "prestacao_contas_url": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "eventos": [
+    {
+      "titulo": {
+        "valor": "Fórum Estadual Extraordinário da Undime Maranhão 2026",
+        "fonte_url": "https://undime.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "data_inicio": {
+        "valor": "2026-08-11",
+        "fonte_url": "https://undime.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "data_fim": {
+        "valor": "2026-08-12",
+        "fonte_url": "https://undime.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "local": {
+        "valor": "São Luís/MA",
+        "fonte_url": "https://undime.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "inscricao_url": {
+        "valor": "não localizado publicamente",
+        "fonte_url": "",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      },
+      "fonte_url": "https://undime.org.br/"
+    }
+  ],
+  "fontes_consultadas": [
+    "https://undime.org.br/seccionais/",
+    "https://undime.org.br/",
+    "https://ma.undime.org.br/",
+    "https://ma.undime.org.br/portal/secretaria/visualizar",
+    "https://ma.undime.org.br/noticia/",
+    "https://www.instagram.com/undimemaranhao/",
+    "https://pt-br.facebook.com/Undimema/"
+  ],
+  "lacunas": [
+    "cnpj",
+    "fundacao",
+    "diretoria.conselho_fiscal",
+    "redes_sociais.x",
+    "redes_sociais.youtube",
+    "redes_sociais.linkedin",
+    "associados_num",
+    "municipios_num",
+    "financeiro.receitas",
+    "financeiro.contribuicoes",
+    "financeiro.prestacao_contas_url",
+    "eventos[0].inscricao_url"
+  ]
+}

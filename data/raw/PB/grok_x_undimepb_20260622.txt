@@ -1,0 +1,4 @@
+Comando: grok -p "Pesquise no X o perfil oficial e posts recentes da UNDIME Paraíba: handle, posts, eventos com URLs."
+Data: 2026-06-22
+Resultado: O grok retornou apenas preâmbulo ("Vou pesquisar... primeiro verifico o skill...") em modo single-turn, sem produzir handle/posts/URLs finais. Uma tentativa, conforme instrução. X/Twitter da UNDIME PB obtido por outra via:
+- Portal oficial undimepb.org.br lista: https://twitter.com/undimepb (handle @undimepb).

@@ -1,0 +1,233 @@
+{
+  "uf": "BA",
+  "nivel": "estadual",
+  "nome_oficial": {
+    "valor": "União dos Dirigentes Municipais de Educação da Bahia (UNDIME Bahia)",
+    "fonte_url": "https://undimebahia.com.br/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "cnpj": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "fundacao": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "sede_endereco": {
+    "valor": "Rua Professor Clóvis Veiga, nº 1, Costa Azul, CEP 41.760-140 - Salvador/BA",
+    "fonte_url": "https://undime.org.br/seccionais/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "contato": {
+    "telefone": {
+      "valor": "(71) 3362-0678 (Secretaria Executiva); (71) 99318-9868; WhatsApp (75) 98280-6260 e (75) 98843-5687",
+      "fonte_url": "https://undimebahia.com.br/contatos/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "email": {
+      "valor": "undimedabahia@gmail.com",
+      "fonte_url": "https://undimebahia.com.br/contatos/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "site": {
+      "valor": "https://undimebahia.com.br/",
+      "fonte_url": "https://undimebahia.com.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "portal_estadual": {
+      "valor": "https://undimebahia.com.br/",
+      "fonte_url": "https://undime.org.br/seccionais/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    }
+  },
+  "diretoria": {
+    "presidente": {
+      "nome": {
+        "valor": "Anderson Passos dos Santos",
+        "fonte_url": "https://undimebahia.com.br/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "municipio_origem": {
+        "valor": "Aratuípe/BA",
+        "fonte_url": "https://undimebahia.com.br/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    },
+    "secretaria_executiva": {
+      "valor": "Sônia Magaly Machado Santos",
+      "fonte_url": "https://undime.org.br/seccionais/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "conselho_fiscal": [
+      {
+        "valor": "Gislene Leite dos Santos – Brotas de Macaúbas",
+        "fonte_url": "https://undimebahia.com.br/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Deusângela Campos Nunes Bacelar – Glória",
+        "fonte_url": "https://undimebahia.com.br/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Neumária Gomes da Silva – Capim Grosso",
+        "fonte_url": "https://undimebahia.com.br/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Suplentes: Adriana Paixão de Sousa Silva – Serrolândia; Ailton Barbosa de Santana – Abaré; Nilzângela Santos Silva – Itagimirim",
+        "fonte_url": "https://undimebahia.com.br/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    ],
+    "outros": [
+      {
+        "valor": "Vice-presidente: Ricardo Matos Berbel – Wagner",
+        "fonte_url": "https://undimebahia.com.br/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretária de Coordenação Técnica: Gardenia Macedo Roseira da Costa – Gandu (suplente: Renata Rosendo dos Santos – Itagibá)",
+        "fonte_url": "https://undimebahia.com.br/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretário de Articulação Municipal: Élvia Sampaio e Sampaio – Jequié (suplente: Danilo Sobral de Souza – Planalto)",
+        "fonte_url": "https://undimebahia.com.br/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretária de Finanças: Crisângela Gardênia Cordeiro Oliveira – Candeal (suplente: Jeorge Ribeiro da Silva – Sento Sé)",
+        "fonte_url": "https://undimebahia.com.br/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretário de Comunicação: Marcos Paiva Pereira – Cravolândia (suplente: Erivelton Gonçalves Alves – Mortugaba)",
+        "fonte_url": "https://undimebahia.com.br/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Conselho Nacional de Representantes: Ducilene Soares Silva Kestering – Sobradinho; Antonieta da Paixão dos Santos – Igrapiúna; Ricardo Matos Berbel – Wagner",
+        "fonte_url": "https://undimebahia.com.br/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Biênio da diretoria: 2025/2027",
+        "fonte_url": "https://undimebahia.com.br/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    ]
+  },
+  "redes_sociais": {
+    "instagram": {
+      "valor": "https://www.instagram.com/undime_bahia_oficial/",
+      "fonte_url": "https://undimebahia.com.br/contatos/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "facebook": {
+      "valor": "https://www.facebook.com/undimebahiaoficial",
+      "fonte_url": "https://undimebahia.com.br/contatos/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "x": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "youtube": {
+      "valor": "https://www.youtube.com/channel/UC4rUl0W3nGPraryaRfW0r-w",
+      "fonte_url": "https://undimebahia.com.br/contatos/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "linkedin": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "associados_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "municipios_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "financeiro": {
+    "receitas": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "contribuicoes": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "prestacao_contas_url": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "eventos": [],
+  "fontes_consultadas": [
+    "https://undimebahia.com.br/",
+    "https://undimebahia.com.br/diretoria/",
+    "https://undimebahia.com.br/contatos/",
+    "https://undimebahia.com.br/o-que-e-a-undime/",
+    "https://undimebahia.com.br/forum-extraordinario/",
+    "https://undimebahia.com.br/category/noticias/bahia/",
+    "https://undime.org.br/seccionais/",
+    "https://undime.org.br/"
+  ],
+  "lacunas": [
+    "cnpj",
+    "fundacao",
+    "associados_num",
+    "municipios_num",
+    "financeiro.receitas",
+    "financeiro.contribuicoes",
+    "financeiro.prestacao_contas_url",
+    "redes_sociais.x",
+    "redes_sociais.linkedin",
+    "eventos"
+  ]
+}

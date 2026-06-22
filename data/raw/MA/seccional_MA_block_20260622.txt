@@ -1,0 +1,5 @@
+# Origem: data/raw/BR/live_noticia_seccionais_20260622.html (captura de https://undime.org.br/.../seccionais em 2026-06-22)
+# Bloco MA extraido (linha 88, texto corrido):
+
+# Bloco MA extraido (linha 74, com tags HTML):
+Maranhão</strong><br /><strong>Presidente</strong>: Karla Janys Lima Nascimento<br />Dirigente Municipal de Educação de Açailândia/ MA<br /> <br /><strong>Secretaria executiva<br /></strong>Emília Georgia Santos Alves Lustosa<br />Av dos Holandeses, casa 6, Calhau <br />CEP: 65.071-380 - São Luis/ MA<br />Fone: (99) 98111-5737<br />Endereço eletrônico: <a href="mailto:undimemaranhao@gmail.com">undimemaranhao@gmail.com

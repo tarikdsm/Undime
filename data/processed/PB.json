@@ -1,0 +1,260 @@
+{
+  "uf": "PB",
+  "nivel": "estadual",
+  "nome_oficial": {
+    "valor": "Undime - Seccional Paraíba (União Nacional dos Dirigentes Municipais de Educação - PB)",
+    "fonte_url": "https://www.undimepb.org.br/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "cnpj": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "fundacao": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "sede_endereco": {
+    "valor": "Av. Vice-Prefeito Antônio Carvalho de Souza, Nº 400, Bairro Estação Velha – Edifício Centro Jurídico Rafael Mayer, Salas 205 e 507, CEP 58410-050, Campina Grande/PB",
+    "fonte_url": "https://undime.org.br/noticia/seccionais",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "contato": {
+    "telefone": {
+      "valor": "(83) 3322-8235 / (83) 99952-8404",
+      "fonte_url": "https://www.undimepb.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "email": {
+      "valor": "contato@undimepb.org.br ; undimeparaiba@gmail.com",
+      "fonte_url": "https://www.undimepb.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "site": {
+      "valor": "https://www.undimepb.org.br/",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "portal_estadual": {
+      "valor": "https://www.undimepb.org.br/",
+      "fonte_url": "https://www.undimepb.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    }
+  },
+  "diretoria": {
+    "presidente": {
+      "nome": {
+        "valor": "Ana Paula Nunes da Silva",
+        "fonte_url": "https://www.undimepb.org.br/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "municipio_origem": {
+        "valor": "Princesa Isabel/PB",
+        "fonte_url": "https://www.undimepb.org.br/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    },
+    "secretaria_executiva": {
+      "valor": "Uilma Mendes Medeiros",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "conselho_fiscal": [
+      {
+        "valor": "Fabiana Alves Inácio Ferreira (1º membro) - São José de Piranhas/PB",
+        "fonte_url": "https://www.undimepb.org.br/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Áurea Rayra Canejo da Silva (2º membro) - Barra de São Miguel/PB",
+        "fonte_url": "https://www.undimepb.org.br/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Ana Lima Feliciano Torres (3º membro) - Monteiro/PB",
+        "fonte_url": "https://www.undimepb.org.br/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    ],
+    "outros": [
+      {
+        "valor": "Vice-Presidente: Patrício Henrique de Vasconcelos - Marizópolis/PB",
+        "fonte_url": "https://www.undimepb.org.br/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretária de Assuntos Jurídicos: Maria Antonia Neta - Catolé do Rocha/PB",
+        "fonte_url": "https://www.undimepb.org.br/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretária de Coordenação Técnica: Joana Darc Ferreira de Araújo - Santa Cruz/PB",
+        "fonte_url": "https://www.undimepb.org.br/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretário de Articulação: José das Vitórias dos Santos - Baraúna/PB",
+        "fonte_url": "https://www.undimepb.org.br/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretário de Comunicação: Wagner de Almeida Silva - Poço Dantas/PB",
+        "fonte_url": "https://www.undimepb.org.br/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretária de Finanças: Josefa Andrea Berto da Silva Batista - Soledade/PB",
+        "fonte_url": "https://www.undimepb.org.br/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    ]
+  },
+  "redes_sociais": {
+    "instagram": {
+      "valor": "https://www.instagram.com/undime.pb/ (handle oficial citado no portal; também ativo: https://www.instagram.com/undimeparaiba/)",
+      "fonte_url": "https://www.undimepb.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "facebook": {
+      "valor": "https://www.facebook.com/Undime-Para%C3%ADba-433716776698122",
+      "fonte_url": "https://www.undimepb.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "x": {
+      "valor": "https://twitter.com/undimepb (@undimepb)",
+      "fonte_url": "https://www.undimepb.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "youtube": {
+      "valor": "https://www.youtube.com/channel/UCU3ETLw8LzHPvaZJtCW8qQQ",
+      "fonte_url": "https://www.undimepb.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "linkedin": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "associados_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "municipios_num": {
+    "valor": "223 municípios da Paraíba (universo de atuação da seccional; corresponde ao total de municípios do estado)",
+    "fonte_url": "https://www.undimepb.org.br/",
+    "data_coleta": "2026-06-22",
+    "confianca": "media"
+  },
+  "financeiro": {
+    "receitas": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "contribuicoes": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "prestacao_contas_url": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "eventos": [
+    {
+      "titulo": {
+        "valor": "Fórum Estadual da Undime Paraíba 2026",
+        "fonte_url": "https://undime.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_inicio": {
+        "valor": "agosto/2026 (dia exato não divulgado)",
+        "fonte_url": "https://undime.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_fim": {
+        "valor": "não localizado publicamente",
+        "fonte_url": "",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      },
+      "local": {
+        "valor": "não localizado publicamente",
+        "fonte_url": "",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      },
+      "inscricao_url": {
+        "valor": "não localizado publicamente",
+        "fonte_url": "",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      },
+      "fonte_url": "https://undime.org.br/"
+    }
+  ],
+  "fontes_consultadas": [
+    "https://undime.org.br/noticia/seccionais",
+    "https://undime.org.br/noticia/diretoria",
+    "https://undime.org.br/noticia/presidentes-estaduais",
+    "https://undime.org.br/ (Fóruns Estaduais 2026)",
+    "https://web.archive.org/web/20260203052559/https://undime.org.br/noticia/seccionais",
+    "https://www.undimepb.org.br/",
+    "https://www.undimepb.org.br/diretoria",
+    "https://andregomespb.com.br/com-apoio-da-maioria-dos-municipios-da-paraiba-nova-diretoria-da-undime-pb-pode-ser-decidida-por-aclamacao/",
+    "https://www.instagram.com/undime.pb/",
+    "https://www.instagram.com/undimeparaiba/",
+    "https://twitter.com/undimepb",
+    "https://www.youtube.com/channel/UCU3ETLw8LzHPvaZJtCW8qQQ",
+    "https://www.facebook.com/Undime-Para%C3%ADba-433716776698122"
+  ],
+  "lacunas": [
+    "cnpj",
+    "fundacao",
+    "redes_sociais.linkedin",
+    "associados_num",
+    "financeiro.receitas",
+    "financeiro.contribuicoes",
+    "financeiro.prestacao_contas_url",
+    "eventos[0].data_fim",
+    "eventos[0].local",
+    "eventos[0].inscricao_url"
+  ]
+}
