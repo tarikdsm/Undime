@@ -1,0 +1,29 @@
+FONTE PRIMARIA: https://www.undimemt.org.br/ (portal estadual, HTTP 200) | data_coleta: 2026-06-22
+
+ACHADOS-CHAVE (todos do portal, confianca alta salvo indicado):
+- Nome: Undime/MT - Uniao Nacional dos Dirigentes Municipais de Educacao - Mato Grosso
+- CNPJ: 37.499.944/0001-65  (pagina /institucional/2/sobre/)
+- Fundacao: 1993 ("constituida em 1993")
+- Utilidade publica: Lei Estadual 8139 (25/06/2004) e Lei Municipal 4.726 (10/01/2005)
+- Sede: Avenida Historiador Rubens de Mendonca, 3.920, Bairro Morada do Ouro / Centro Politico Administrativo, CEP 78.050-902, Cuiaba/MT
+  (Obs.: pagina /contato menciona CEP 78049-938 - divergencia menor de CEP entre paginas; sobre/seccionais usam 78.050-902)
+- Email: undimemt@gmail.com
+- Telefones: (65) 98476-6239 (Coord. Institucional Vanilda Mendes); (65) 98477-5659 (Comunicacao Marcelo Costa)
+  WhatsApp no rodape da pagina diretoria (template): https://wa.me/+5565924766239 (numero "924766239" diverge dos demais - NAO usado, possivel typo de template)
+- Presidente: Simoni Pereira Borges - DME de Campo Verde/MT (pagina diretoria oficial + lista municipios "Campo Verde - Simoni Pereira Borges")
+- Coordenadora/Secretaria executiva: Vanilda Carvalho Mendes
+- Sec. Finanças: Eduardo Ferreira da Silva (DME Canarana/MT) - tambem Presidente Regional Centro-Oeste na nacional
+- Conselho Fiscal: Lucineia Martins de Matos Mazzoni, Nelci Terezinha Rauber Ansolin, Fernanda Alves dos Santos Ribas (+ suplentes)
+- Municipios associados: 142 (contagem renderizada via Playwright na pagina /institucional/7/municipios/, lista Acorizal..Vila Rica; MT tem 142 municipios = cobertura total)
+- Redes: Instagram https://www.instagram.com/undimemt/ ; YouTube http://www.youtube.com/undimemt
+  Facebook/X/LinkedIn: nao localizados (sem links no portal; WebSearch nao achou X dedicado)
+- Financeiro: sem prestacao de contas/balanco publicos. Transparencia so tem Estatuto (Google Drive) e Regimento.
+- Eventos >= 2026-06-22: NENHUM. Noticias do portal sao todas <= 15/06/2026 (eventos ja ocorridos).
+
+ATENCAO - DADO NAO CONFIAVEL (descartado):
+- A pagina /diretoria/ acessada por path antigo (undimemt.org.br/diretoria/) e TEMPLATE nao preenchido:
+  mostra "Luiz Miguel Martins Garcia / DME de Sud Mennucci" (presidente NACIONAL) e repete "Celso Fernando Iversen / DME de Porto Feliz" (placeholder SP). NAO e diretoria de MT.
+  A diretoria real esta em /institucional/4/diretoria/.
+
+DIVERGENCIA snapshot nacional vs portal:
+- Snapshot seccionais: "Simoni Borges". Portal: "Simoni Pereira Borges" (nome completo). Mesma pessoa - refinamento, nao conflito.

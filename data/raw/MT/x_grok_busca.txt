@@ -1,0 +1,13 @@
+FONTE: grok.exe (busca no X) + WebSearch | data_coleta: 2026-06-22
+
+TENTATIVA grok (1x, conforme regra): comandos
+  grok -p "No X (Twitter), existe perfil oficial da UNDIME Mato Grosso? ..."
+RESULTADO: grok retornou apenas preambulo de raciocinio (sem resultado util de busca no X nesta sessao headless). Tratado como "nao localizado" e seguido.
+
+WebSearch ("UNDIME Mato Grosso Twitter X perfil oficial undimemt"):
+- NAO existe perfil oficial dedicado da UNDIME/MT no X/Twitter.
+- Conta nacional: https://x.com/undime (nao e da seccional MT).
+- Instagram oficial confirmado: https://www.instagram.com/undimemt/
+- YouTube: http://www.youtube.com/undimemt (link no rodape do portal)
+
+CONCLUSAO: x (Twitter) da UNDIME/MT = "nao localizado publicamente".

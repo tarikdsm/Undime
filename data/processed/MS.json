@@ -1,0 +1,211 @@
+{
+  "uf": "MS",
+  "nivel": "estadual",
+  "nome_oficial": {
+    "valor": "Undime Mato Grosso do Sul (União dos Dirigentes Municipais de Educação de Mato Grosso do Sul)",
+    "fonte_url": "https://x.com/undimems",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "cnpj": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "fundacao": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "sede_endereco": {
+    "valor": "Avenida Eduardo Elias Zahran, nº 3179 - Bairro Antônio Vendas - CEP: 79.003-000 - Campo Grande/MS",
+    "fonte_url": "https://undime.org.br/noticia/seccionais",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "contato": {
+    "telefone": {
+      "valor": "(67) 3348-5022 / (67) 99906-4529",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "email": {
+      "valor": "undime@assomasul.org.br",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "site": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    },
+    "portal_estadual": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    }
+  },
+  "diretoria": {
+    "presidente": {
+      "nome": {
+        "valor": "Silvia Patrícia Freire",
+        "fonte_url": "https://undime.org.br/noticia/seccionais",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "municipio_origem": {
+        "valor": "Itaquiraí/MS (Dirigente Municipal de Educação)",
+        "fonte_url": "https://undime.org.br/noticia/seccionais",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    },
+    "secretaria_executiva": {
+      "valor": "Marilda Fernandes de Oliveira Coelho",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "conselho_fiscal": [],
+    "outros": [
+      {
+        "valor": "Silvia Patrícia Freire é Vice-Presidência da Região Centro-Oeste na Diretoria Executiva Nacional da Undime (mandato 2025-2027)",
+        "fonte_url": "https://undime.org.br/institucional/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    ]
+  },
+  "redes_sociais": {
+    "instagram": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://www.instagram.com/undimems/",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    },
+    "facebook": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "x": {
+      "valor": "@undimems (https://x.com/undimems)",
+      "fonte_url": "https://x.com/undimems",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "youtube": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "linkedin": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "associados_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "municipios_num": {
+    "valor": "79 (universo de municípios do estado de MS atendidos pela seccional; o 17º Fórum Estadual reuniu gestores dos 79 municípios)",
+    "fonte_url": "https://undime.org.br/noticia/04-04-2025-05-35-17o-forum-estadual-ordinario-da-undime-mato-grosso-do-sul-discute-qualidade-da-educacao-municipal",
+    "data_coleta": "2026-06-22",
+    "confianca": "media"
+  },
+  "financeiro": {
+    "receitas": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "contribuicoes": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "prestacao_contas_url": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "eventos": [
+    {
+      "titulo": {
+        "valor": "Fórum Estadual Extraordinário da Undime Mato Grosso do Sul (2026)",
+        "fonte_url": "https://undime.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "data_inicio": {
+        "valor": "2026-06-25",
+        "fonte_url": "https://undime.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "data_fim": {
+        "valor": "2026-06-26",
+        "fonte_url": "https://undime.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "local": {
+        "valor": "Campo Grande/MS (fonte nacional Undime). Divergência: o portal de eventos da Undime-MS destaca Bonito/MS — possível alteração de local não refletida na lista nacional.",
+        "fonte_url": "https://undime.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "inscricao_url": {
+        "valor": "https://undimems.educacaoeventos.com.br/",
+        "fonte_url": "https://undimems.educacaoeventos.com.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "fonte_url": "https://undime.org.br/"
+    }
+  ],
+  "fontes_consultadas": [
+    "https://undime.org.br/noticia/seccionais",
+    "https://undime.org.br/institucional/diretoria",
+    "https://undime.org.br/ (lista nacional dos Fóruns Estaduais 2026)",
+    "https://undimems.educacaoeventos.com.br/",
+    "https://www.assomasul.org.br/",
+    "https://www.assomasul.org.br/?s=undime",
+    "https://undime.org.br/noticia/04-04-2025-05-35-17o-forum-estadual-ordinario-da-undime-mato-grosso-do-sul-discute-qualidade-da-educacao-municipal",
+    "https://x.com/undimems",
+    "https://www.instagram.com/undimems/",
+    "https://web.archive.org/web/20260203052559/https://undime.org.br/noticia/seccionais"
+  ],
+  "lacunas": [
+    "cnpj",
+    "fundacao",
+    "contato.site",
+    "contato.portal_estadual",
+    "diretoria.conselho_fiscal",
+    "redes_sociais.instagram",
+    "redes_sociais.facebook",
+    "redes_sociais.youtube",
+    "redes_sociais.linkedin",
+    "associados_num",
+    "financeiro.receitas",
+    "financeiro.contribuicoes",
+    "financeiro.prestacao_contas_url"
+  ]
+}

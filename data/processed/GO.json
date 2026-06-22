@@ -1,0 +1,173 @@
+{
+  "uf": "GO",
+  "nivel": "estadual",
+  "nome_oficial": {
+    "valor": "Undime Goiás (União Nacional dos Dirigentes Municipais de Educação - Seccional Goiás)",
+    "fonte_url": "https://undime.org.br/noticia/seccionais",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "cnpj": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "fundacao": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "sede_endereco": {
+    "valor": "Av. Anhanguera, n. 5.110, Qd. 09, 4º andar, Edifício Moacir Teles - Setor Central, salas 409/411 - CEP: 74.043-010 - Goiânia/GO",
+    "fonte_url": "https://undime.org.br/noticia/seccionais",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "contato": {
+    "telefone": {
+      "valor": "(62) 3954-6322 / (62) 3954-6263 / Celular: (64) 99244-1945",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "email": {
+      "valor": "undimegoias@gmail.com",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "site": {
+      "valor": "https://go.undime.org.br/",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "portal_estadual": {
+      "valor": "https://go.undime.org.br/",
+      "fonte_url": "https://go.undime.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    }
+  },
+  "diretoria": {
+    "presidente": {
+      "nome": {
+        "valor": "Anderlúcia de Castro Ferreira",
+        "fonte_url": "https://undime.org.br/noticia/seccionais",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "municipio_origem": {
+        "valor": "Anicuns/GO (Dirigente Municipal de Educação)",
+        "fonte_url": "https://undime.org.br/noticia/seccionais",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    },
+    "secretaria_executiva": {
+      "valor": "Denise Scalia de Souza",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "conselho_fiscal": [],
+    "outros": [
+      {
+        "valor": "Anderlúcia de Castro Ferreira (presidente da Undime Goiás) também integra a Diretoria Executiva Nacional 2025-2027 como Secretaria de Comunicação",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    ]
+  },
+  "redes_sociais": {
+    "instagram": {
+      "valor": "https://www.instagram.com/undimegoias/",
+      "fonte_url": "https://www.instagram.com/undimegoias/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "facebook": {
+      "valor": "https://www.facebook.com/undimegoias",
+      "fonte_url": "https://www.facebook.com/undimegoias",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    },
+    "x": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "youtube": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "linkedin": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "associados_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "municipios_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "financeiro": {
+    "receitas": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "contribuicoes": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "prestacao_contas_url": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "eventos": [],
+  "fontes_consultadas": [
+    "https://undime.org.br/noticia/seccionais",
+    "https://undime.org.br/noticia/diretoria",
+    "https://go.undime.org.br/",
+    "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+    "https://undime.org.br/noticia/31-07-2025-03-08-nova-diretoria-da-undime-e-empossada-no-20o-forum-nacional-em-salvador",
+    "https://www.instagram.com/undimegoias/",
+    "https://www.facebook.com/undimegoias"
+  ],
+  "lacunas": [
+    "cnpj",
+    "fundacao",
+    "diretoria.conselho_fiscal",
+    "redes_sociais.x",
+    "redes_sociais.youtube",
+    "redes_sociais.linkedin",
+    "associados_num",
+    "municipios_num",
+    "financeiro.receitas",
+    "financeiro.contribuicoes",
+    "financeiro.prestacao_contas_url",
+    "eventos"
+  ]
+}

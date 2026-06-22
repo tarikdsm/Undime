@@ -1,0 +1,6 @@
+=== grok stdout ===
+Vou pesquisar no X o perfil oficial da UNDIME São Paulo e os posts recentes.
+
+
+=== grok stderr (tail) ===
+[2m2026-06-22T17:25:27.472569Z[0m [31mERROR[0m tool_error: tool_output_error [3msession_id[0m[2m=[0m019ef05b-2b93-74a3-b2d8-7c0b9091f1f7 [3mtool_name[0m[2m=[0m"WebFetch" [3meffective_tool_name[0m[2m=[0m"WebFetch" [3mmodel_id[0m[2m=[0m"grok-composer-2.5-fast" [3merror_kind[0m[2m=[0m"tool_output_error"

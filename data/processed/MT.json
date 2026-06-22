@@ -1,0 +1,214 @@
+{
+  "uf": "MT",
+  "nivel": "estadual",
+  "nome_oficial": {
+    "valor": "Undime/MT - União Nacional dos Dirigentes Municipais de Educação - Mato Grosso",
+    "fonte_url": "https://www.undimemt.org.br/institucional/2/sobre/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "cnpj": {
+    "valor": "37.499.944/0001-65",
+    "fonte_url": "https://www.undimemt.org.br/institucional/2/sobre/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "fundacao": {
+    "valor": "1993",
+    "fonte_url": "https://www.undimemt.org.br/institucional/2/sobre/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "sede_endereco": {
+    "valor": "Avenida Historiador Rubens de Mendonça, 3.920, Bairro Morada do Ouro, CEP 78.050-902 - Cuiabá/MT",
+    "fonte_url": "https://www.undimemt.org.br/institucional/2/sobre/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "contato": {
+    "telefone": {
+      "valor": "(65) 98476-6239 (Coordenadora Institucional - Vanilda Mendes); (65) 98477-5659 (Comunicação)",
+      "fonte_url": "https://undimemt.org.br/contato/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "email": {
+      "valor": "undimemt@gmail.com",
+      "fonte_url": "https://undimemt.org.br/contato/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "site": {
+      "valor": "https://www.undimemt.org.br/",
+      "fonte_url": "https://www.undimemt.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "portal_estadual": {
+      "valor": "https://www.undimemt.org.br/",
+      "fonte_url": "https://www.undimemt.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    }
+  },
+  "diretoria": {
+    "presidente": {
+      "nome": {
+        "valor": "Simoni Pereira Borges",
+        "fonte_url": "https://www.undimemt.org.br/institucional/4/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "municipio_origem": {
+        "valor": "Campo Verde/MT",
+        "fonte_url": "https://www.undimemt.org.br/institucional/4/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    },
+    "secretaria_executiva": {
+      "valor": "Vanilda Carvalho Mendes (Coordenadora Institucional)",
+      "fonte_url": "https://www.undimemt.org.br/institucional/4/diretoria/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "conselho_fiscal": [
+      {
+        "valor": "Lucineia Martins de Matos Mazzoni",
+        "fonte_url": "https://www.undimemt.org.br/institucional/4/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Nelci Terezinha Rauber Ansolin",
+        "fonte_url": "https://www.undimemt.org.br/institucional/4/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Fernanda Alves dos Santos Ribas",
+        "fonte_url": "https://www.undimemt.org.br/institucional/4/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    ],
+    "outros": [
+      {
+        "valor": "Secretário de Assuntos Jurídicos: Fransergio Rojas Piovesan (DME de Cáceres/MT)",
+        "fonte_url": "https://www.undimemt.org.br/institucional/4/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretária de Coordenação Técnica: Miriam Miranda de Oliveira (DME de Cotriguaçu/MT); suplente Kenia Cristina Borges (DME de Campinápolis/MT)",
+        "fonte_url": "https://www.undimemt.org.br/institucional/4/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretária de Articulação: Zilda Xavier dos Santos (DME de Curvelândia/MT); suplente Rosendo Martins Teixeira Neto (DME de Porto Esperidião/MT)",
+        "fonte_url": "https://www.undimemt.org.br/institucional/4/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretário de Comunicação: Antonio Roberto Garcia Junior (DME de Itaúba/MT); suplente Cristiane Romagna Ferreira (DME de Tabaporã/MT)",
+        "fonte_url": "https://www.undimemt.org.br/institucional/4/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretário de Finanças: Eduardo Ferreira da Silva (DME de Canarana/MT; também Presidente Regional Centro-Oeste da Undime nacional); suplente Junior Aparecido de Oliveira (DME de Nova Brasilândia/MT)",
+        "fonte_url": "https://www.undimemt.org.br/institucional/4/diretoria/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    ]
+  },
+  "redes_sociais": {
+    "instagram": {
+      "valor": "https://www.instagram.com/undimemt/",
+      "fonte_url": "https://www.undimemt.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "facebook": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://www.undimemt.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    },
+    "x": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://www.undimemt.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    },
+    "youtube": {
+      "valor": "http://www.youtube.com/undimemt",
+      "fonte_url": "https://www.undimemt.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "linkedin": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://www.undimemt.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    }
+  },
+  "associados_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "https://www.undimemt.org.br/institucional/7/municipios/",
+    "data_coleta": "2026-06-22",
+    "confianca": "media"
+  },
+  "municipios_num": {
+    "valor": "142",
+    "fonte_url": "https://www.undimemt.org.br/institucional/7/municipios/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "financeiro": {
+    "receitas": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://www.undimemt.org.br/transparencia/1/estatuto/",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    },
+    "contribuicoes": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://www.undimemt.org.br/transparencia/1/estatuto/",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    },
+    "prestacao_contas_url": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://www.undimemt.org.br/transparencia/1/estatuto/",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    }
+  },
+  "eventos": [],
+  "fontes_consultadas": [
+    "https://www.undimemt.org.br/",
+    "https://www.undimemt.org.br/institucional/2/sobre/",
+    "https://www.undimemt.org.br/institucional/4/diretoria/",
+    "https://www.undimemt.org.br/institucional/7/municipios/",
+    "https://undimemt.org.br/contato/",
+    "https://www.undimemt.org.br/noticias/",
+    "https://www.undimemt.org.br/transparencia/1/estatuto/",
+    "https://www.instagram.com/undimemt/",
+    "https://x.com/undime"
+  ],
+  "lacunas": [
+    "redes_sociais.facebook",
+    "redes_sociais.x",
+    "redes_sociais.linkedin",
+    "associados_num",
+    "financeiro.receitas",
+    "financeiro.contribuicoes",
+    "financeiro.prestacao_contas_url",
+    "eventos"
+  ]
+}

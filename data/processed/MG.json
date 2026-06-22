@@ -1,0 +1,258 @@
+{
+  "uf": "MG",
+  "nivel": "estadual",
+  "nome_oficial": {
+    "valor": "União Nacional dos Dirigentes Municipais de Educação - Seção Minas Gerais - UNDIME/MG",
+    "fonte_url": "https://mapaosc.ipea.gov.br/detalhar/507375",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "cnpj": {
+    "valor": "23.840.622/0001-23",
+    "fonte_url": "https://mapaosc.ipea.gov.br/detalhar/507375",
+    "data_coleta": "2026-06-22",
+    "confianca": "media"
+  },
+  "fundacao": {
+    "valor": "1987 (16/11/1987 segundo Econodata/Receita Federal)",
+    "fonte_url": "https://mapaosc.ipea.gov.br/detalhar/507375",
+    "data_coleta": "2026-06-22",
+    "confianca": "media"
+  },
+  "sede_endereco": {
+    "valor": "Rua Alagoas, 730 - Sala 18, Edifício Mongeral - Bairro Funcionários, CEP 30.130-160 - Belo Horizonte/MG",
+    "fonte_url": "https://undimemg.org.br/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "contato": {
+    "telefone": {
+      "valor": "(31) 3342-1748 / (31) 98751-4760",
+      "fonte_url": "https://undimemg.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "email": {
+      "valor": "administrativo@undimemg.org.br | comunicacao@undimemg.org.br | diretoria@undimemg.org.br",
+      "fonte_url": "https://undimemg.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "site": {
+      "valor": "https://undimemg.org.br/",
+      "fonte_url": "https://undimemg.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "portal_estadual": {
+      "valor": "https://undimemg.org.br/",
+      "fonte_url": "https://undimemg.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    }
+  },
+  "diretoria": {
+    "presidente": {
+      "nome": {
+        "valor": "Jônatas Gonçalves Rêgo",
+        "fonte_url": "https://undimemg.org.br/institucional/diretoria-executiva/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "municipio_origem": {
+        "valor": "Mirabela/MG",
+        "fonte_url": "https://undimemg.org.br/institucional/diretoria-executiva/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    },
+    "secretaria_executiva": {
+      "valor": "Suely Duque Rodarte (Diretora Executiva) - diretoria@undimemg.org.br. Obs.: Denize Assunção atua como Assessora Administrativa e Financeira (administrativo@undimemg.org.br); o site nacional/snapshot a listava como secretária executiva (divergência registrada).",
+      "fonte_url": "https://undimemg.org.br/secretaria-executiva/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "conselho_fiscal": [
+      {
+        "valor": "1º Titular: Andreia Carla Ferreira (Divinópolis/MG)",
+        "fonte_url": "https://undimemg.org.br/institucional/diretoria-executiva/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "1º Suplente: Analia de Freitas Morais (Cláudio/MG)",
+        "fonte_url": "https://undimemg.org.br/institucional/diretoria-executiva/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "2º Titular: Andre Donizete Martins (Araporã/MG)",
+        "fonte_url": "https://undimemg.org.br/institucional/diretoria-executiva/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "2º Suplente: Cintia Mendes (Soledade de Minas/MG)",
+        "fonte_url": "https://undimemg.org.br/institucional/diretoria-executiva/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "3º Titular: Jacqueline Guimarães Santos Aguilar (Pirapora/MG)",
+        "fonte_url": "https://undimemg.org.br/institucional/diretoria-executiva/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "3º Suplente: Isabella Alaiza Costa Silveira Lopes (São João do Pacuí/MG)",
+        "fonte_url": "https://undimemg.org.br/institucional/diretoria-executiva/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    ],
+    "outros": [
+      {
+        "valor": "Vice-presidente: Juliana de Paula Mendonça (Varginha/MG)",
+        "fonte_url": "https://undimemg.org.br/institucional/diretoria-executiva/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretaria de Finanças (Titular): Carlos Alberto Serra Negra (Coronel Fabriciano/MG); Suplente: Lilian Teixeira Garcia Gomes (Arcos/MG)",
+        "fonte_url": "https://undimemg.org.br/institucional/diretoria-executiva/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretaria de Articulação (Titular): Fernando Campos Abreu Junior (Sete Lagoas/MG); Suplente: Thomas Henrique de Oliveira Resende (Nova Serrana/MG)",
+        "fonte_url": "https://undimemg.org.br/institucional/diretoria-executiva/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretaria de Assuntos Jurídicos (Titular): Daniel Santos Ribeiro (Três Corações/MG); Suplente: Stefânia Zanin Baldim Cunha (Monsenhor Paulo/MG)",
+        "fonte_url": "https://undimemg.org.br/institucional/diretoria-executiva/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretaria de Coordenação Técnica (Titular): Alessandro Gomes Soares (Curvelo/MG); Suplente: Betânia Alves Monteiro (Boa Esperança/MG)",
+        "fonte_url": "https://undimemg.org.br/institucional/diretoria-executiva/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Secretaria de Comunicação (Titular): Rafael Juliano Araújo Ferreira (Cônego Marinho/MG); Suplente: Fabrício Nepomuceno Bicalho Santos (Mariana/MG)",
+        "fonte_url": "https://undimemg.org.br/institucional/diretoria-executiva/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Assessora Administrativa e Financeira: Denize Assunção (administrativo@undimemg.org.br, (31) 98751-4760)",
+        "fonte_url": "https://undimemg.org.br/secretaria-executiva/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Assessora de Comunicação: Maiara Penoni (comunicacao@undimemg.org.br, (31) 98880-5943); Assistente de Comunicação: Maria Clara Cobucci ((32) 98863-0086)",
+        "fonte_url": "https://undimemg.org.br/secretaria-executiva/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      {
+        "valor": "Gestão (biênio) 2024-2027 conforme ATA registrada",
+        "fonte_url": "https://undimemg.org.br/wp-content/uploads/2025/07/ATA-BIENIO-UNDIME-MG-2024X2027-.pdf",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    ]
+  },
+  "redes_sociais": {
+    "instagram": {
+      "valor": "https://www.instagram.com/undimemg/",
+      "fonte_url": "https://undimemg.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "facebook": {
+      "valor": "https://www.facebook.com/undimemg",
+      "fonte_url": "https://undimemg.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "x": {
+      "valor": "https://twitter.com/undimemg",
+      "fonte_url": "https://undimemg.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "youtube": {
+      "valor": "https://www.youtube.com/undimemg",
+      "fonte_url": "https://undimemg.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "linkedin": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://undimemg.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    }
+  },
+  "associados_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "https://undimemg.org.br/filiados/",
+    "data_coleta": "2026-06-22",
+    "confianca": "media"
+  },
+  "municipios_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "https://undimemg.org.br/filiados/",
+    "data_coleta": "2026-06-22",
+    "confianca": "media"
+  },
+  "financeiro": {
+    "receitas": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://undimemg.org.br/wp-content/uploads/2026/06/DRE-2024.pdf",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    },
+    "contribuicoes": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://undimemg.org.br/portal-de-transparencia/",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    },
+    "prestacao_contas_url": {
+      "valor": "https://undimemg.org.br/portal-de-transparencia/ (publica Balanço Patrimonial 2023/2024, DRE 2023/2024 e Relatórios de Gestão 2021-2025; PDFs em formato imagem, valores não extraíveis sem OCR)",
+      "fonte_url": "https://undimemg.org.br/portal-de-transparencia/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    }
+  },
+  "eventos": [],
+  "fontes_consultadas": [
+    "https://undimemg.org.br/",
+    "https://undimemg.org.br/institucional/diretoria-executiva/",
+    "https://undimemg.org.br/secretaria-executiva/",
+    "https://undimemg.org.br/portal-de-transparencia/",
+    "https://undimemg.org.br/filiados/",
+    "https://undimemg.org.br/noticias/",
+    "https://undimemg.org.br/wp-json/wp/v2/posts",
+    "https://undimemg.org.br/enec-piec/",
+    "https://mapaosc.ipea.gov.br/detalhar/507375",
+    "https://www.econodata.com.br/consulta-empresa/23840622000123-uniao-nacional-dos-dirigentes-municipais-de-educacao-secao-minas-gerais-undimemg",
+    "data/raw/BR/live_noticia_seccionais_20260622.html",
+    "data/raw/BR/live_noticia_diretoria_20260622.html",
+    "data/raw/BR/seccionais_wayback_20260203.txt"
+  ],
+  "lacunas": [
+    "associados_num",
+    "municipios_num",
+    "financeiro.receitas",
+    "financeiro.contribuicoes",
+    "redes_sociais.linkedin",
+    "eventos (nenhum evento futuro >= 2026-06-22 localizado)"
+  ]
+}
