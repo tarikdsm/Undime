@@ -1,0 +1,177 @@
+{
+  "uf": "SC",
+  "nivel": "estadual",
+  "nome_oficial": {
+    "valor": "União dos Dirigentes Municipais de Educação de Santa Catarina (Undime-SC)",
+    "fonte_url": "https://undime-sc.org.br/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "cnpj": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "https://undime-sc.org.br/",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "fundacao": {
+    "valor": "19 de outubro de 1987 (Undime-SC completou 37 anos em 19/10/2024; ano inferido a partir do 'há quase quatro décadas / 37 anos' divulgado oficialmente)",
+    "fonte_url": "https://undime-sc.org.br/noticias/undime-completa-37-anos-de-atuacao-em-santa-catarina/",
+    "data_coleta": "2026-06-22",
+    "confianca": "media"
+  },
+  "sede_endereco": {
+    "valor": "Av. Mauro Ramos, 1450 - sala 1401 - 14º andar - Centro - CEP 88020-302 - Florianópolis/SC",
+    "fonte_url": "https://undime-sc.org.br/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "contato": {
+    "telefone": {
+      "valor": "(48) 3380-4882 / (48) 3380-4883 / Celular: (48) 98466-0923",
+      "fonte_url": "https://undime-sc.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "email": {
+      "valor": "assessoriaundimesc@gmail.com; undimesc@gmail.com",
+      "fonte_url": "https://undime-sc.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "site": {
+      "valor": "https://undime-sc.org.br/",
+      "fonte_url": "https://undime-sc.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "portal_estadual": {
+      "valor": "https://undime-sc.org.br/",
+      "fonte_url": "https://undime-sc.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    }
+  },
+  "diretoria": {
+    "presidente": {
+      "nome": {
+        "valor": "Alex Tardetti",
+        "fonte_url": "https://undime-sc.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "municipio_origem": {
+        "valor": "São Lourenço do Oeste/SC (Dirigente Municipal de Educação)",
+        "fonte_url": "https://undime-sc.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    },
+    "secretaria_executiva": {
+      "valor": "Luana Costa de Córdova (coordenadora institucional)",
+      "fonte_url": "https://undime-sc.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    },
+    "conselho_fiscal": [
+      {
+        "valor": "não localizado publicamente",
+        "fonte_url": "https://undime-sc.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      }
+    ],
+    "outros": [
+      {
+        "valor": "Vice-presidente: Jorge Luiz Buerger - Dirigente Municipal de Educação de Pomerode/SC",
+        "fonte_url": "https://undime-sc.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    ]
+  },
+  "redes_sociais": {
+    "instagram": {
+      "valor": "https://www.instagram.com/undime_santacatarina/ (@undime_santacatarina)",
+      "fonte_url": "https://undime-sc.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "facebook": {
+      "valor": "https://www.facebook.com/Undimesantacatarina",
+      "fonte_url": "https://undime-sc.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "x": {
+      "valor": "https://twitter.com/UndimeSC (@UndimeSC)",
+      "fonte_url": "https://undime-sc.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "youtube": {
+      "valor": "https://www.youtube.com/@UndimeSC",
+      "fonte_url": "https://undime-sc.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "linkedin": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://undime-sc.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "associados_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "http://undime-sc.org.br/a-undime/associados/",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "municipios_num": {
+    "valor": "295 (Undime-SC representa os 295 municípios de SC; cada Dirigente Municipal de Educação é membro nato)",
+    "fonte_url": "http://undime-sc.org.br/a-undime/associados/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "financeiro": {
+    "receitas": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://undime-sc.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "contribuicoes": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://undime-sc.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "prestacao_contas_url": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "https://undime-sc.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "eventos": [],
+  "fontes_consultadas": [
+    "https://undime-sc.org.br/",
+    "https://undime-sc.org.br/eventos/agenda-undime/",
+    "https://undime-sc.org.br/evento/forum-undime-sc/",
+    "http://undime-sc.org.br/a-undime/associados/",
+    "https://undime-sc.org.br/noticias/undime-completa-37-anos-de-atuacao-em-santa-catarina/",
+    "data/raw/BR/seccionais_wayback_20260203.txt",
+    "data/raw/BR/live_noticia_diretoria_20260622.html",
+    "data/raw/BR/live_noticia_seccionais_20260622.html"
+  ],
+  "lacunas": [
+    "cnpj",
+    "conselho_fiscal",
+    "associados_num",
+    "redes_sociais.linkedin",
+    "financeiro.receitas",
+    "financeiro.contribuicoes",
+    "financeiro.prestacao_contas_url",
+    "eventos (nenhum evento com data_inicio >= 2026-06-22 localizado; Fórum Undime SC 2026 foi em 24-26/03/2026)"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "uf": "RS",
+  "nivel": "estadual",
+  "nome_oficial": {
+    "valor": "Undime Rio Grande do Sul (União dos Dirigentes Municipais de Educação do Rio Grande do Sul)",
+    "fonte_url": "https://undimers.org.br/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "cnpj": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "fundacao": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "sede_endereco": {
+    "valor": "Rua Marcílio Dias, 574 - Bairro Menino Deus, CEP: 90.130-000 - Porto Alegre/RS",
+    "fonte_url": "https://undimers.org.br/contato/",
+    "data_coleta": "2026-06-22",
+    "confianca": "alta"
+  },
+  "contato": {
+    "telefone": {
+      "valor": "(51) 3232-2093 / (51) 98059-3086",
+      "fonte_url": "https://undimers.org.br/contato/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "email": {
+      "valor": "undime.rs@gmail.com / undime-rs@undimers.org.br",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "site": {
+      "valor": "https://undimers.org.br/",
+      "fonte_url": "https://undimers.org.br/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "portal_estadual": {
+      "valor": "https://undimers.org.br/",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    }
+  },
+  "diretoria": {
+    "presidente": {
+      "nome": {
+        "valor": "Ana Paula Bennemann (Ana Paula Ferreira Cruz Bennemann)",
+        "fonte_url": "https://undime.org.br/noticia/seccionais",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      },
+      "municipio_origem": {
+        "valor": "São Francisco de Paula/RS",
+        "fonte_url": "https://undime.org.br/noticia/seccionais",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    },
+    "secretaria_executiva": {
+      "valor": "Márcio Machado",
+      "fonte_url": "https://undime.org.br/noticia/seccionais",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "conselho_fiscal": [
+      {
+        "valor": "Conselho/representação por associação microrregional (titular/suplente) listada no portal estadual: AMSERRA, AMUCELEIRO, AMUCSER, AMUFRON, AMUNOR, AMUPLAM, AMVARC, AMVARP, AMVARS/AMVAG, AMVAT/AMAT, AMZOP, AMNG, ASMURC, ASSUDOESTE, AZONASUL, GRANPAL, entre outras. Composição completa com nomes consta na página inicial do portal.",
+        "fonte_url": "https://undimers.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      }
+    ],
+    "outros": [
+      {
+        "valor": "Ana Paula Ferreira Cruz Bennemann ocupa a Secretaria de Assuntos Jurídicos na diretoria NACIONAL da Undime (DME de São Francisco de Paula/RS).",
+        "fonte_url": "https://undime.org.br/noticia/diretoria",
+        "data_coleta": "2026-06-22",
+        "confianca": "alta"
+      }
+    ]
+  },
+  "redes_sociais": {
+    "instagram": {
+      "valor": "https://www.instagram.com/undime.rs/",
+      "fonte_url": "https://www.instagram.com/undime.rs/",
+      "data_coleta": "2026-06-22",
+      "confianca": "alta"
+    },
+    "facebook": {
+      "valor": "https://pt-br.facebook.com/UndimeRS-325051804277760/",
+      "fonte_url": "https://undimers.org.br/noticias/18223/",
+      "data_coleta": "2026-06-22",
+      "confianca": "media"
+    },
+    "x": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "youtube": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "linkedin": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "associados_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "municipios_num": {
+    "valor": "não localizado publicamente",
+    "fonte_url": "",
+    "data_coleta": "2026-06-22",
+    "confianca": "baixa"
+  },
+  "financeiro": {
+    "receitas": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "contribuicoes": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    },
+    "prestacao_contas_url": {
+      "valor": "não localizado publicamente",
+      "fonte_url": "",
+      "data_coleta": "2026-06-22",
+      "confianca": "baixa"
+    }
+  },
+  "eventos": [],
+  "fontes_consultadas": [
+    "https://undimers.org.br/",
+    "https://undimers.org.br/contato/",
+    "https://undimers.org.br/forum2026/",
+    "https://undimers.org.br/forum2025/",
+    "https://undimers.org.br/noticias/18223/",
+    "https://undime.org.br/noticia/seccionais",
+    "https://undime.org.br/noticia/diretoria",
+    "https://www.instagram.com/undime.rs/",
+    "https://pt-br.facebook.com/UndimeRS-325051804277760/"
+  ],
+  "lacunas": [
+    "cnpj",
+    "fundacao",
+    "redes_sociais.x",
+    "redes_sociais.youtube",
+    "redes_sociais.linkedin",
+    "associados_num",
+    "municipios_num",
+    "financeiro.receitas",
+    "financeiro.contribuicoes",
+    "financeiro.prestacao_contas_url",
+    "eventos"
+  ]
+}
