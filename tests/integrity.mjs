@@ -45,13 +45,20 @@ function walk(o, pathStr, ufLabel) {
 }
 for (const u of [master.nacional, ...master.estados]) walk(u, "", u.uf);
 
-// 3. Eventos: data_inicio >= CUTOFF
+// 3. Eventos: data_inicio >= CUTOFF + sem duplicata entre unidades (mesmo dia+local em 2 UFs)
 let eventos = 0;
+const evSeen = new Map();
 for (const u of [master.nacional, ...master.estados]) {
   for (const e of u.eventos || []) {
     eventos++;
-    const m = String(e.data_inicio?.valor || "").match(/(\d{4}-\d{2}-\d{2})/);
+    const di = String(e.data_inicio?.valor || "");
+    const m = di.match(/(\d{4}-\d{2}-\d{2})/);
     if (m && m[1] < CUTOFF) fail(`${u.uf}: evento com data_inicio ${m[1]} < ${CUTOFF}`);
+    const dk = (di.match(/\d{4}-\d{2}(-\d{2})?/) || [""])[0] + "|" + String(e.local?.valor || "").toLowerCase().replace(/[^a-z]/g, "").slice(0, 12);
+    if (dk.length > 1) {
+      if (evSeen.has(dk) && evSeen.get(dk) !== u.uf) fail(`evento duplicado entre ${evSeen.get(dk)} e ${u.uf}: ${dk}`);
+      else evSeen.set(dk, u.uf);
+    }
   }
 }
 

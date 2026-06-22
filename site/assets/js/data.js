@@ -61,7 +61,11 @@ export function proximosEventos(data) {
   push(data.nacional, "BR");
   (data.estados || []).forEach((s) => push(s, s.uf));
   const key = (it) => (String(campo(it.e.data_inicio).valor).match(/\d{4}-\d{2}(-\d{2})?/) || ["9999-99"])[0];
+  // trava anti-duplicata: mesmo dia + mesma cidade/UF (fórum listado em duas unidades)
+  const dedupKey = (it) => key(it) + "|" + String(campo(it.e.local).valor).toLowerCase().replace(/[^a-z]/g, "").slice(0, 12);
+  const seen = new Set();
   return out
     .filter((it) => key(it) >= CUTOFF.slice(0, key(it).length))
+    .filter((it) => { const k = dedupKey(it); if (seen.has(k)) return false; seen.add(k); return true; })
     .sort((a, b) => key(a).localeCompare(key(b)));
 }

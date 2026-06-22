@@ -139,7 +139,41 @@
       "confianca": "baixa"
     }
   },
-  "eventos": [],
+  "eventos": [
+    {
+      "titulo": {
+        "valor": "Fórum Estadual Extraordinário da Undime/AP 2026",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_inicio": {
+        "valor": "2026-11-05",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_fim": {
+        "valor": "2026-11-06",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "local": {
+        "valor": "Macapá/AP",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "inscricao_url": {
+        "valor": "não localizado publicamente",
+        "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      },
+      "fonte_url": "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026"
+    }
+  ],
   "fontes_consultadas": [
     "https://undime.org.br/noticia/seccionais",
     "https://undime.org.br/noticia/diretoria",
@@ -164,7 +198,6 @@
     "municipios_num",
     "financeiro.receitas",
     "financeiro.contribuicoes",
-    "financeiro.prestacao_contas_url",
-    "eventos"
+    "financeiro.prestacao_contas_url"
   ]
 }
