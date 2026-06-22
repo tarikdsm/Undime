@@ -1,0 +1,53 @@
+/* tokens.css — design system editorial-tech (UNDIME · Brasil) */
+:root {
+  /* Cores — base clara editorial + acento tech */
+  --color-bg:        #FAFAF7;   /* fundo quente quase-branco */
+  --color-surface:   #FFFFFF;
+  --color-surface-2: #F2F3F0;
+  --color-ink:       #14181F;   /* texto principal (AA forte sobre surface) */
+  --color-ink-soft:  #515b69;   /* secundário / lacunas (>=4.5:1 sobre branco) */
+  --color-line:      #E3E7ED;   /* divisórias */
+  --color-accent:    #1856C4;   /* links/foco (>=5:1 sobre branco) */
+  --color-accent-ink:#0f3e92;
+  --color-accent-bg: #EAF1FE;   /* preenchimento suave (mapa, chips) */
+  --color-accent-2:  #0B6E80;
+
+  /* Selo de confiança (cor + sempre acompanha texto/ícone) */
+  --conf-alta:   #157F3C;
+  --conf-media:  #8A5A00;
+  --conf-baixa:  #B42318;
+  --conf-alta-bg:  #E7F4EC;
+  --conf-media-bg: #FBF1DD;
+  --conf-baixa-bg: #FBEAE8;
+
+  /* Tipografia */
+  --font-display: Georgia, "Times New Roman", "Noto Serif", serif;
+  --font-sans:    system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono:    ui-monospace, "Cascadia Code", "SFMono-Regular", Consolas, monospace;
+
+  --step--1: .833rem; --step-0: 1rem; --step-1: 1.25rem; --step-2: 1.6rem;
+  --step-3: 2.1rem; --step-4: 2.8rem; --step-5: clamp(2.6rem, 6vw, 4rem);
+
+  /* Layout */
+  --maxw: 72rem; --gap: 1.25rem; --radius: 12px; --radius-sm: 8px;
+  --shadow: 0 1px 2px rgba(16,22,30,.05), 0 6px 24px rgba(16,22,30,.06);
+  --focus-ring: 0 0 0 3px color-mix(in srgb, var(--color-accent) 45%, transparent);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg:        #0E1116;
+    --color-surface:   #161B22;
+    --color-surface-2: #1F262F;
+    --color-ink:       #E9EDF2;
+    --color-ink-soft:  #9aa6b3;
+    --color-line:      #2A323C;
+    --color-accent:    #6EA8FF;
+    --color-accent-ink:#A8C8FF;
+    --color-accent-bg: #15233B;
+    --color-accent-2:  #4FC4D6;
+    --conf-alta: #4ED07E; --conf-media: #E0B04A; --conf-baixa: #FF8A7E;
+    --conf-alta-bg:#13241a; --conf-media-bg:#2a2212; --conf-baixa-bg:#2c1715;
+    --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 28px rgba(0,0,0,.4);
+  }
+}

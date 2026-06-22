@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{TITLE}}</title>
+  <meta name="description" content="{{DESC}}">
+  <meta property="og:title" content="{{TITLE}}">
+  <meta property="og:description" content="{{DESC}}">
+  <meta property="og:type" content="website">
+  <link rel="stylesheet" href="../assets/css/tokens.css">
+  <link rel="stylesheet" href="../assets/css/base.css">
+  <link rel="stylesheet" href="../assets/css/components.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Pular para o conteúdo</a>
+  <header class="site-header">
+    <div class="wrap bar">
+      <a class="wordmark" href="../index.html">UNDIME&nbsp;·&nbsp;<b>Brasil</b></a>
+      <nav aria-label="Principal">
+        <a href="../index.html">Mapa</a>
+        <a href="../index.html#nacional">Nacional</a>
+        <a href="../index.html#eventos">Eventos</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="wrap section stack" tabindex="-1">
+    {{MAIN}}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap stack">
+      <p>Dados públicos com proveniência por campo (fonte, data de coleta e selo de confiança). Lacunas aparecem como <em>"não localizado publicamente"</em> — nada é inventado.</p>
+      <p>Conjunto de dados gerado em <time>{{GERADO}}</time> · Fonte primária: sites oficiais da UNDIME (nacional e seccionais). Projeto: <a href="https://github.com/tarikdsm/Undime" target="_blank" rel="noopener noreferrer">github.com/tarikdsm/Undime</a></p>
+    </div>
+  </footer>
+</body>
+</html>

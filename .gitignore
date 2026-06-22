@@ -30,3 +30,9 @@ npm-debug.log*
 
 # Terminais transientes (grok)
 terminals/
+
+# GeoJSON fonte do mapa (grande; artefato gerado e brasil.svg)
+data/geo/*.geojson
+
+# Screenshots de evidencia na raiz
+/*.png

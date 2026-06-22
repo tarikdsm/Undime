@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>UNDIME · Brasil — mapa das seccionais estaduais</title>
+  <meta name="description" content="Mapa nacional das UNDIMEs: a União Nacional dos Dirigentes Municipais de Educação, suas 26 seccionais estaduais e a entidade nacional — dados públicos com fonte e selo de confiança.">
+  <meta property="og:title" content="UNDIME · Brasil — mapa das seccionais estaduais">
+  <meta property="og:description" content="A UNDIME nacional e suas 26 seccionais estaduais, com proveniência por campo.">
+  <meta property="og:type" content="website">
+  <link rel="stylesheet" href="assets/css/tokens.css">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Pular para o conteúdo</a>
+  <header class="site-header">
+    <div class="wrap bar">
+      <a class="wordmark" href="index.html">UNDIME&nbsp;·&nbsp;<b>Brasil</b></a>
+      <nav aria-label="Principal">
+        <a href="#mapa">Mapa</a>
+        <a href="#nacional">Nacional</a>
+        <a href="#eventos">Eventos</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" tabindex="-1">
+    <!-- Hero -->
+    <section class="wrap hero stack">
+      <p class="eyebrow">União Nacional dos Dirigentes Municipais de Educação</p>
+      <h1>O Brasil da educação municipal, seccional por seccional.</h1>
+      <p class="lead">Explore a UNDIME nacional e suas 26 seccionais estaduais. Cada dado traz a fonte, a data de coleta e um selo de confiança — o que não foi localizado publicamente aparece como tal.</p>
+      <p id="erro" role="alert" class="muted"></p>
+    </section>
+
+    <!-- Mapa + busca -->
+    <section id="mapa" class="wrap section">
+      <div class="map-layout">
+        <figure class="map-figure" aria-label="Mapa interativo do Brasil">
+          {{BRASIL_SVG}}
+        </figure>
+        <div class="stack">
+          <h2>Encontre uma seccional</h2>
+          <div class="finder">
+            <input id="uf-search" type="search" placeholder="Buscar estado (nome ou sigla)…" aria-label="Buscar estado por nome ou sigla" autocomplete="off">
+            <label class="visually-hidden" for="uf-select">Ir para o estado</label>
+            <select id="uf-select"></select>
+          </div>
+          <ul id="uf-list" class="uf-list" aria-label="Lista de estados"></ul>
+          <p class="muted" style="font-size:var(--step--1)">O Distrito Federal não possui seccional própria — é tratado pela <a href="#nacional">UNDIME nacional</a>.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Nacional -->
+    <section id="nacional" class="wrap section" tabindex="-1">
+      <div class="card stack">
+        <p class="eyebrow">Entidade nacional</p>
+        <h2>UNDIME Nacional</h2>
+        <div id="nacional-dados" class="data-list"></div>
+      </div>
+    </section>
+
+    <!-- Eventos -->
+    <section id="eventos" class="wrap section">
+      <div class="card stack">
+        <p class="eyebrow">Agenda · a partir de 22/06/2026</p>
+        <h2>Próximos eventos</h2>
+        <div id="eventos-lista"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap stack">
+      <p>Dados públicos com proveniência por campo (fonte, data de coleta e selo de confiança). Lacunas aparecem como <em>"não localizado publicamente"</em> — nada é inventado.</p>
+      <p>Conjunto de dados gerado em <time id="gerado-em">{{GERADO}}</time> · Mapa derivado de fronteiras estaduais públicas (click_that_hood, MIT). Projeto: <a href="https://github.com/tarikdsm/Undime" target="_blank" rel="noopener noreferrer">github.com/tarikdsm/Undime</a></p>
+    </div>
+  </footer>
+
+  <script type="module" src="assets/js/home.js"></script>
+</body>
+</html>

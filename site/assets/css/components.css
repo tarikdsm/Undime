@@ -1,0 +1,89 @@
+/* components.css — header, hero, mapa, cards, data-rows, badges, tooltip, footer */
+
+/* Header */
+.site-header { position: sticky; top: 0; z-index: 20; background: color-mix(in srgb, var(--color-surface) 88%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--color-line); }
+.site-header .bar { display: flex; align-items: center; gap: 1rem; padding-block: .7rem; }
+.wordmark { font-family: var(--font-display); font-weight: 700; font-size: var(--step-1); letter-spacing: -.01em; color: var(--color-ink); text-decoration: none; }
+.wordmark b { color: var(--color-accent); }
+.site-header nav { margin-left: auto; display: flex; gap: 1rem; align-items: center; font-size: var(--step--1); }
+
+/* Hero */
+.hero { padding-block: clamp(2.5rem, 7vw, 5rem) clamp(1rem,3vw,2rem); }
+.hero h1 { max-width: 18ch; }
+.hero .lead { font-size: var(--step-1); color: var(--color-ink-soft); max-width: 46ch; margin-top: 1rem; }
+
+/* Mapa */
+.map-layout { display: grid; gap: 2rem; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); align-items: start; }
+@media (max-width: 56rem) { .map-layout { grid-template-columns: 1fr; } }
+.map-figure { position: relative; background: var(--color-surface); border: 1px solid var(--color-line); border-radius: var(--radius); padding: 1rem; box-shadow: var(--shadow); }
+.brasil-map { width: 100%; height: auto; display: block; }
+.brasil-map path { fill: var(--color-accent-bg); stroke: var(--color-accent); stroke-width: 1; stroke-linejoin: round; cursor: pointer; transition: fill .15s ease; outline: none; }
+.brasil-map path:hover, .brasil-map path:focus-visible, .brasil-map path.is-active { fill: var(--color-accent); }
+.brasil-map path:focus-visible { stroke: var(--color-ink); stroke-width: 1.6; }
+.brasil-map path[data-uf="DF"] { stroke-width: 1.4; }
+.brasil-map path.is-dim { opacity: .25; }
+
+/* Tooltip do mapa */
+.map-tip { position: fixed; z-index: 40; pointer-events: none; max-width: 18rem; background: var(--color-surface); color: var(--color-ink); border: 1px solid var(--color-line); border-radius: var(--radius-sm); box-shadow: var(--shadow); padding: .6rem .75rem; font-size: var(--step--1); opacity: 0; transform: translateY(4px); transition: opacity .12s, transform .12s; }
+.map-tip.show { opacity: 1; transform: translateY(0); }
+.map-tip strong { display: block; font-family: var(--font-display); font-size: var(--step-0); }
+
+/* Busca / seletor */
+.finder { display: flex; flex-wrap: wrap; gap: .6rem; margin-bottom: 1rem; }
+.finder input, .finder select { font: inherit; padding: .55rem .7rem; border: 1px solid var(--color-line); border-radius: var(--radius-sm); background: var(--color-surface); color: var(--color-ink); }
+.finder input { flex: 1 1 12rem; }
+.uf-list { list-style: none; padding: 0; display: grid; gap: .3rem; grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr)); max-height: 22rem; overflow: auto; }
+.uf-list a { display: flex; justify-content: space-between; gap: .5rem; text-decoration: none; padding: .45rem .6rem; border: 1px solid var(--color-line); border-radius: var(--radius-sm); background: var(--color-surface); color: var(--color-ink); }
+.uf-list a:hover, .uf-list a:focus-visible { border-color: var(--color-accent); background: var(--color-accent-bg); }
+.uf-list a .uf-tag { font-family: var(--font-mono); color: var(--color-accent-2); font-size: var(--step--1); }
+.uf-list li.hide { display: none; }
+
+/* Cards */
+.card { background: var(--color-surface); border: 1px solid var(--color-line); border-radius: var(--radius); padding: 1.25rem; box-shadow: var(--shadow); }
+.card > h2, .card > h3 { margin-bottom: .25rem; }
+
+/* Data rows */
+.data-list { display: grid; gap: .1rem; }
+.data-row { display: grid; grid-template-columns: minmax(8rem, 12rem) 1fr; gap: .25rem 1rem; padding: .6rem 0; border-bottom: 1px solid var(--color-line); align-items: start; }
+.data-row:last-child { border-bottom: 0; }
+@media (max-width: 40rem) { .data-row { grid-template-columns: 1fr; } }
+.data-row .label { font-family: var(--font-mono); font-size: var(--step--1); letter-spacing: .04em; text-transform: uppercase; color: var(--color-ink-soft); padding-top: .15rem; }
+.data-row .value { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem .6rem; }
+.data-row .value.is-data { font-family: var(--font-mono); }
+.value .v-missing { font-style: italic; color: var(--color-ink-soft); }
+.src-link { font-size: var(--step--1); text-decoration: none; border: 1px solid var(--color-line); border-radius: 999px; padding: .05rem .5rem; white-space: nowrap; }
+.src-link::before { content: "↗ fonte"; }
+.src-link:hover { border-color: var(--color-accent); background: var(--color-accent-bg); }
+.collected { font-size: var(--step--1); color: var(--color-ink-soft); }
+
+/* Badge de confiança */
+.badge { display: inline-flex; align-items: center; gap: .3rem; font-size: var(--step--1); font-weight: 600; padding: .05rem .5rem; border-radius: 999px; border: 1px solid; line-height: 1.5; }
+.badge .dot { width: .5rem; height: .5rem; border-radius: 50%; background: currentColor; }
+.badge.alta  { color: var(--conf-alta);  background: var(--conf-alta-bg);  border-color: color-mix(in srgb, var(--conf-alta) 35%, transparent); }
+.badge.media { color: var(--conf-media); background: var(--conf-media-bg); border-color: color-mix(in srgb, var(--conf-media) 35%, transparent); }
+.badge.baixa { color: var(--conf-baixa); background: var(--conf-baixa-bg); border-color: color-mix(in srgb, var(--conf-baixa) 35%, transparent); }
+
+/* Eventos */
+.event { display: grid; grid-template-columns: 5.5rem 1fr; gap: 1rem; padding: .9rem 0; border-bottom: 1px solid var(--color-line); }
+.event:last-child { border-bottom: 0; }
+.event .when { font-family: var(--font-mono); font-size: var(--step--1); color: var(--color-accent-2); }
+.event .when b { display: block; font-size: var(--step-2); color: var(--color-ink); }
+.event .what h3 { font-family: var(--font-sans); font-size: var(--step-0); font-weight: 700; }
+.empty-state { color: var(--color-ink-soft); font-style: italic; padding: 1rem 0; }
+
+/* Breadcrumb / chips de estado */
+.crumb { font-size: var(--step--1); color: var(--color-ink-soft); }
+.crumb a { text-decoration: none; }
+.state-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: .5rem 1rem; }
+.uf-badge { font-family: var(--font-mono); background: var(--color-accent-bg); color: var(--color-accent-ink); border-radius: var(--radius-sm); padding: .1rem .5rem; font-size: var(--step-1); }
+.cols { display: grid; gap: var(--gap); grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr)); align-items: start; }
+
+/* Listas de fontes/lacunas */
+.chips { display: flex; flex-wrap: wrap; gap: .4rem; list-style: none; padding: 0; }
+.chips li { background: var(--color-surface-2); border-radius: 999px; padding: .15rem .6rem; font-size: var(--step--1); }
+.src-urls { list-style: none; padding: 0; display: grid; gap: .25rem; }
+.src-urls a { font-family: var(--font-mono); font-size: var(--step--1); word-break: break-all; }
+
+/* Footer */
+.site-footer { border-top: 1px solid var(--color-line); margin-top: 3rem; padding-block: 2rem; color: var(--color-ink-soft); font-size: var(--step--1); }
+.site-footer a { color: var(--color-accent); }
