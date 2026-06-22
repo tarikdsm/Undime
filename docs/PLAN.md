@@ -10,9 +10,9 @@
       Dataset mestre consolidado em `data/undime.json` (1 nacional + 26 estados).
       `docs/SPECIFICATION.md` (site editorial-tech) e `docs/CONSOLIDACAO.md`
       (divergências por unidade) escritos. Aguardando passagem do `reviewer`.
-- [ ] **Fase 4** — Construção do site (spec pronta em `docs/SPECIFICATION.md`).
-- [ ] **Fase 5** — Auditoria independente.
-- [ ] **Fase 6** — Commit e deploy.
+- [x] **Fase 4** — Construção do site (home + 26 estados; mapa SVG; editorial-tech).
+- [x] **Fase 5** — Auditoria independente (`docs/AUDIT.md`; Lighthouse 98-100/100; link-check; responsividade).
+- [x] **Fase 6** — Deploy: repo público + GitHub Pages no ar → https://tarikdsm.github.io/Undime/
 
 ## Universo confirmado (Fase 1 → reconfirmado na Fase 3)
 - Nacional (UF = `BR`, sede Brasília/DF). Total de unidades no dataset: **27** (1 nacional + 26 estados).
