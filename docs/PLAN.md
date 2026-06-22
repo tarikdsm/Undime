@@ -3,18 +3,20 @@
 > Documento vivo. O subagent `planner` atualiza este arquivo a partir de `data/processed/`.
 
 ## Status das fases
-- [x] **Fase 0** — Setup (em finalização: ambiente ✓, estrutura ✓, MCPs ✓, subagents, git).
-- [ ] **Fase 1** — Reconhecimento e lista-alvo.
-- [ ] **Fase 2** — Pesquisa paralela por estado.
+- [x] **Fase 0** — Setup (ambiente ✓, estrutura ✓, MCPs ✓, subagents ✓, git ✓).
+- [x] **Fase 1** — Reconhecimento e lista-alvo (ver `docs/SOURCES.md`). Universo confirmado; plano de lotes definido.
+- [ ] **Fase 2** — Pesquisa paralela por estado (aguardando OK).
 - [ ] **Fase 3** — Consolidação (planner → executor → reviewer).
 - [ ] **Fase 4** — Construção do site.
 - [ ] **Fase 5** — Auditoria independente.
 - [ ] **Fase 6** — Commit e deploy.
 
-## Universo-alvo (a confirmar na Fase 1)
+## Universo confirmado (Fase 1)
 - Nacional (UF = `BR`, sede Brasília/DF).
-- 26 seccionais estaduais (DF tratado pela nacional).
-- Microrregionais: investigar e documentar onde existirem (não forçar).
+- **26 seccionais estaduais.** DF **sem seccional própria** (tratado pela nacional) — confirmado na fonte oficial.
+- 5 Presidências Regionais (CO, NE, N, SE, S) — estrutura nacional.
+- Microrregionais: nenhuma localizada ainda; investigar por estado na Fase 2 (não forçar).
+- 8 portais estaduais no ar (BA, PE, GO, MT, MG, SP, PR, SC); RS em erro 500; SE não resolve; demais 16 sem portal próprio.
 
 ## Arquitetura do site (a detalhar na Fase 3/4)
 - Estático, dados de `site/assets/data/undime.json`.
