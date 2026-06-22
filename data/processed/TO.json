@@ -8,16 +8,16 @@
     "confianca": "alta"
   },
   "cnpj": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "https://undime.org.br/noticia/seccionais",
+    "valor": "02.963.631/0001-31",
+    "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "fundacao": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "https://undime.org.br/noticia/seccionais",
+    "valor": "1995",
+    "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "sede_endereco": {
     "valor": "Av. Teotônio Segurado 301 Norte, Conjunto 1, Lote 9 - CEP 77.001-226 - Palmas/TO",

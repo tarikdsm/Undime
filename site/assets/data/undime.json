@@ -2,7 +2,7 @@
   "meta": {
     "projeto": "Undime — site nacional das UNDIMEs",
     "gerado_em": "2026-06-22",
-    "fonte": "data/processed/*.json (consolidacao Fase 3)",
+    "fonte": "data/processed/*.json (consolidacao Fase 3; enriquecido busca_AGY 2026-06-22)",
     "total_unidades": 27,
     "nota": "DF nao possui seccional propria (tratado pela nacional). Cada campo carrega proveniencia {valor, fonte_url, data_coleta, confianca}."
   },
@@ -305,10 +305,10 @@
         "confianca": "baixa"
       },
       "prestacao_contas_url": {
-        "valor": "Seção de transparência existe no menu ('Atas, Pareceres e Relatórios Financeiros' e 'Balanço de Gestão'), mas valores/documentos financeiros específicos não foram localizados/extraídos nesta coleta.",
-        "fonte_url": "https://undime.org.br/",
+        "valor": "Atas, Pareceres e Relatórios Financeiros (auditorias até o exercício 2024); balanço de gestão em vídeo em undime.org.br/balanco-de-gestao/",
+        "fonte_url": "https://undime.org.br/atas-e-pareceres",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "alta"
       }
     },
     "eventos": [
@@ -552,10 +552,10 @@
         "confianca": "media"
       },
       "fundacao": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "21/06/1995",
+        "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "sede_endereco": {
         "valor": "Endereço da Secretaria Executiva: Centro de Línguas, Av. Getúlio Vargas, 3030 - Bosque, CEP 69900-589, Rio Branco/AC",
@@ -750,10 +750,10 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "69.982.361/0001-87",
+        "fonte_url": "https://www.undimeal.com.br/",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
         "valor": "não localizado publicamente",
@@ -926,16 +926,16 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "02.516.184/0001-72",
+        "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "25/07/1997",
+        "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "sede_endereco": {
         "valor": "Av. Álvaro Maia, 2357, 10º andar, sala 1006 - Edifício Corporate Trade Center, CEP: 69.057-035 - Manaus/AM",
@@ -1057,7 +1057,41 @@
           "confianca": "baixa"
         }
       },
-      "eventos": [],
+      "eventos": [
+        {
+          "titulo": {
+            "valor": "Videoconferência formativa — o papel da educação empreendedora na gestão municipal",
+            "fonte_url": "https://undime.org.br/",
+            "data_coleta": "2026-06-22",
+            "confianca": "media"
+          },
+          "data_inicio": {
+            "valor": "2026-06-23",
+            "fonte_url": "https://undime.org.br/",
+            "data_coleta": "2026-06-22",
+            "confianca": "media"
+          },
+          "data_fim": {
+            "valor": "2026-06-23",
+            "fonte_url": "https://undime.org.br/",
+            "data_coleta": "2026-06-22",
+            "confianca": "media"
+          },
+          "local": {
+            "valor": "Online",
+            "fonte_url": "https://undime.org.br/",
+            "data_coleta": "2026-06-22",
+            "confianca": "media"
+          },
+          "inscricao_url": {
+            "valor": "não localizado publicamente",
+            "fonte_url": "https://undime.org.br/",
+            "data_coleta": "2026-06-22",
+            "confianca": "baixa"
+          },
+          "fonte_url": "https://undime.org.br/"
+        }
+      ],
       "fontes_consultadas": [
         "https://undime.org.br/noticia/seccionais",
         "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",
@@ -1264,10 +1298,10 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "32.700.312/0001-02",
+        "fonte_url": "https://undimebahia.com.br/",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
         "valor": "não localizado publicamente",
@@ -1497,10 +1531,10 @@
         "confianca": "media"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "23.727.373/0001-64",
+        "fonte_url": "https://undime.org.br/noticia/seccionais",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
         "valor": "não localizado publicamente",
@@ -1680,10 +1714,10 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "36.044.196/0001-63",
+        "fonte_url": "https://www.undime-es.org.br/",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
         "valor": "1994-04-20",
@@ -1788,6 +1822,12 @@
             "fonte_url": "https://www.undime-es.org.br/diretoria",
             "data_coleta": "2026-06-22",
             "confianca": "baixa"
+          },
+          {
+            "valor": "Vice-presidente: Adenilde Stein Silva — DME de Marechal Floriano/ES (biênio 2025-2027)",
+            "fonte_url": "https://www.undime-es.org.br/",
+            "data_coleta": "2026-06-22",
+            "confianca": "media"
           }
         ]
       },
@@ -1894,10 +1934,10 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "37.285.699/0001-93",
+        "fonte_url": "Serasa Experian",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
         "valor": "não localizado publicamente",
@@ -1988,10 +2028,10 @@
           "confianca": "baixa"
         },
         "youtube": {
-          "valor": "não localizado publicamente",
-          "fonte_url": "",
+          "valor": "https://www.youtube.com/@undimegoias4738",
+          "fonte_url": "https://www.youtube.com/@undimegoias4738",
           "data_coleta": "2026-06-22",
-          "confianca": "baixa"
+          "confianca": "media"
         },
         "linkedin": {
           "valor": "não localizado publicamente",
@@ -2067,10 +2107,10 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "02.897.811/0001-62",
+        "fonte_url": "https://undime.org.br/seccionais/",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
         "valor": "não localizado publicamente",
@@ -2525,10 +2565,10 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "33.793.092/0001-63",
+        "fonte_url": "Diário Oficial de MS",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
         "valor": "não localizado publicamente",
@@ -2601,7 +2641,7 @@
       },
       "redes_sociais": {
         "instagram": {
-          "valor": "não localizado publicamente",
+          "valor": "https://www.instagram.com/undimems/",
           "fonte_url": "https://www.instagram.com/undimems/",
           "data_coleta": "2026-06-22",
           "confianca": "media"
@@ -2950,16 +2990,16 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "01.929.316/0001-25",
+        "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "01/11/1996",
+        "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "sede_endereco": {
         "valor": "Rodovia Augusto Montenegro, km 10, s/n - CEP 66.820-000 - Belém/PA",
@@ -3164,10 +3204,10 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "00.947.659/0001-50",
+        "fonte_url": "https://www.undimepb.org.br/",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
         "valor": "não localizado publicamente",
@@ -3652,10 +3692,10 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "02.271.910/0001-34",
+        "fonte_url": "Serasa Experian",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
         "valor": "não localizado publicamente",
@@ -3831,7 +3871,7 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
+        "valor": "81.398.588/0001-85",
         "fonte_url": "https://undimepr.org.br/",
         "data_coleta": "2026-06-22",
         "confianca": "media"
@@ -4136,10 +4176,10 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "73.727.711/0001-36",
+        "fonte_url": "https://www.pncp.gov.br/",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
         "valor": "não localizado publicamente",
@@ -4230,10 +4270,10 @@
           "confianca": "baixa"
         },
         "youtube": {
-          "valor": "não localizado publicamente",
-          "fonte_url": "",
+          "valor": "https://www.youtube.com/@UndimeRJ",
+          "fonte_url": "https://www.youtube.com/@UndimeRJ",
           "data_coleta": "2026-06-22",
-          "confianca": "baixa"
+          "confianca": "media"
         },
         "linkedin": {
           "valor": "não localizado publicamente",
@@ -4309,10 +4349,10 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "00.596.662/0001-76",
+        "fonte_url": "Diário Oficial de Jandaíra/RN",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
         "valor": "não localizado publicamente",
@@ -4410,10 +4450,10 @@
           "confianca": "baixa"
         },
         "youtube": {
-          "valor": "não localizado publicamente",
-          "fonte_url": "",
+          "valor": "https://www.youtube.com/@UndimeRN",
+          "fonte_url": "https://www.youtube.com/@UndimeRN",
           "data_coleta": "2026-06-22",
-          "confianca": "baixa"
+          "confianca": "media"
         },
         "linkedin": {
           "valor": "não localizado publicamente",
@@ -4491,16 +4531,16 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "https://undime.org.br/noticia/seccionais",
+        "valor": "15.893.134/0001-56",
+        "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "https://undime.org.br/noticia/seccionais",
+        "valor": "08/11/1990",
+        "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "sede_endereco": {
         "valor": "Rua Paulo Leal, 357 - Centro - CEP 76.801-094 - Porto Velho/RO",
@@ -4659,16 +4699,16 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "02.451.827/0001-47",
+        "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "03/04/1998",
+        "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "sede_endereco": {
         "valor": "Avenida Venezuela, 2398 - Mercejana - Escola Estadual Ana Libória - CEP: 69.304-600 - Boa Vista/RR",
@@ -4826,10 +4866,10 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "05.387.322/0001-59",
+        "fonte_url": "Prefeitura de Caçapava do Sul/RS",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
         "valor": "não localizado publicamente",
@@ -4927,10 +4967,10 @@
           "confianca": "baixa"
         },
         "youtube": {
-          "valor": "não localizado publicamente",
-          "fonte_url": "",
+          "valor": "https://www.youtube.com/@undimers",
+          "fonte_url": "https://www.youtube.com/@undimers",
           "data_coleta": "2026-06-22",
-          "confianca": "baixa"
+          "confianca": "media"
         },
         "linkedin": {
           "valor": "não localizado publicamente",
@@ -5007,10 +5047,10 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
+        "valor": "79.363.123/0001-47",
         "fonte_url": "https://undime-sc.org.br/",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
         "valor": "19 de outubro de 1987 (Undime-SC completou 37 anos em 19/10/2024; ano inferido a partir do 'há quase quatro décadas / 37 anos' divulgado oficialmente)",
@@ -5146,13 +5186,47 @@
           "confianca": "baixa"
         },
         "prestacao_contas_url": {
-          "valor": "não localizado publicamente",
-          "fonte_url": "https://undime-sc.org.br/",
+          "valor": "Portal de Transparência (anuidades via Portaria 02/2026 e fluxos mensais)",
+          "fonte_url": "https://undime-sc.org.br/a-undime/transparencia/",
           "data_coleta": "2026-06-22",
-          "confianca": "baixa"
+          "confianca": "media"
         }
       },
-      "eventos": [],
+      "eventos": [
+        {
+          "titulo": {
+            "valor": "Seminário Nacional – Políticas Públicas para a Primeira Infância (apoio/divulgação Undime-SC)",
+            "fonte_url": "https://undime-sc.org.br/",
+            "data_coleta": "2026-06-22",
+            "confianca": "media"
+          },
+          "data_inicio": {
+            "valor": "2026-06-22",
+            "fonte_url": "https://undime-sc.org.br/",
+            "data_coleta": "2026-06-22",
+            "confianca": "media"
+          },
+          "data_fim": {
+            "valor": "2026-06-23",
+            "fonte_url": "https://undime-sc.org.br/",
+            "data_coleta": "2026-06-22",
+            "confianca": "media"
+          },
+          "local": {
+            "valor": "Brasília/DF — Auditório do Instituto Serzedello Corrêa (TCU)",
+            "fonte_url": "https://undime-sc.org.br/",
+            "data_coleta": "2026-06-22",
+            "confianca": "media"
+          },
+          "inscricao_url": {
+            "valor": "não localizado publicamente",
+            "fonte_url": "https://undime-sc.org.br/",
+            "data_coleta": "2026-06-22",
+            "confianca": "baixa"
+          },
+          "fonte_url": "https://undime-sc.org.br/"
+        }
+      ],
       "fontes_consultadas": [
         "https://undime-sc.org.br/",
         "https://undime-sc.org.br/eventos/agenda-undime/",
@@ -5184,10 +5258,10 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "",
+        "valor": "03.433.577/0001-85",
+        "fonte_url": "Serasa Experian",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
         "valor": "não localizado publicamente",
@@ -5365,10 +5439,10 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "https://www.undime-sp.org.br/",
+        "valor": "59.480.558/0001-64",
+        "fonte_url": "https://undime-sp.org.br/",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
         "valor": "junho de 1987",
@@ -5734,16 +5808,16 @@
         "confianca": "alta"
       },
       "cnpj": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "https://undime.org.br/noticia/seccionais",
+        "valor": "02.963.631/0001-31",
+        "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "fundacao": {
-        "valor": "não localizado publicamente",
-        "fonte_url": "https://undime.org.br/noticia/seccionais",
+        "valor": "1995",
+        "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
         "data_coleta": "2026-06-22",
-        "confianca": "baixa"
+        "confianca": "media"
       },
       "sede_endereco": {
         "valor": "Av. Teotônio Segurado 301 Norte, Conjunto 1, Lote 9 - CEP 77.001-226 - Palmas/TO",

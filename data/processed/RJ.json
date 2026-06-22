@@ -8,10 +8,10 @@
     "confianca": "alta"
   },
   "cnpj": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "",
+    "valor": "73.727.711/0001-36",
+    "fonte_url": "https://www.pncp.gov.br/",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "fundacao": {
     "valor": "não localizado publicamente",
@@ -102,10 +102,10 @@
       "confianca": "baixa"
     },
     "youtube": {
-      "valor": "não localizado publicamente",
-      "fonte_url": "",
+      "valor": "https://www.youtube.com/@UndimeRJ",
+      "fonte_url": "https://www.youtube.com/@UndimeRJ",
       "data_coleta": "2026-06-22",
-      "confianca": "baixa"
+      "confianca": "media"
     },
     "linkedin": {
       "valor": "não localizado publicamente",

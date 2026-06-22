@@ -8,10 +8,10 @@
     "confianca": "alta"
   },
   "cnpj": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "",
+    "valor": "05.387.322/0001-59",
+    "fonte_url": "Prefeitura de Caçapava do Sul/RS",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "fundacao": {
     "valor": "não localizado publicamente",
@@ -109,10 +109,10 @@
       "confianca": "baixa"
     },
     "youtube": {
-      "valor": "não localizado publicamente",
-      "fonte_url": "",
+      "valor": "https://www.youtube.com/@undimers",
+      "fonte_url": "https://www.youtube.com/@undimers",
       "data_coleta": "2026-06-22",
-      "confianca": "baixa"
+      "confianca": "media"
     },
     "linkedin": {
       "valor": "não localizado publicamente",

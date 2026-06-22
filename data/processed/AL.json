@@ -8,10 +8,10 @@
     "confianca": "alta"
   },
   "cnpj": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "",
+    "valor": "69.982.361/0001-87",
+    "fonte_url": "https://www.undimeal.com.br/",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "fundacao": {
     "valor": "não localizado publicamente",

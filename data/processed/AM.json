@@ -8,16 +8,16 @@
     "confianca": "alta"
   },
   "cnpj": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "",
+    "valor": "02.516.184/0001-72",
+    "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "fundacao": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "",
+    "valor": "25/07/1997",
+    "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "sede_endereco": {
     "valor": "Av. Álvaro Maia, 2357, 10º andar, sala 1006 - Edifício Corporate Trade Center, CEP: 69.057-035 - Manaus/AM",
@@ -139,7 +139,41 @@
       "confianca": "baixa"
     }
   },
-  "eventos": [],
+  "eventos": [
+    {
+      "titulo": {
+        "valor": "Videoconferência formativa — o papel da educação empreendedora na gestão municipal",
+        "fonte_url": "https://undime.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_inicio": {
+        "valor": "2026-06-23",
+        "fonte_url": "https://undime.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_fim": {
+        "valor": "2026-06-23",
+        "fonte_url": "https://undime.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "local": {
+        "valor": "Online",
+        "fonte_url": "https://undime.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "inscricao_url": {
+        "valor": "não localizado publicamente",
+        "fonte_url": "https://undime.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      },
+      "fonte_url": "https://undime.org.br/"
+    }
+  ],
   "fontes_consultadas": [
     "https://undime.org.br/noticia/seccionais",
     "https://undime.org.br/noticia/12-02-2026-22-25-confira-as-datas-dos-foruns-estaduais-das-seccionais-da-undime-em-2026",

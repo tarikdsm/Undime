@@ -8,10 +8,10 @@
     "confianca": "alta"
   },
   "cnpj": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "",
+    "valor": "33.793.092/0001-63",
+    "fonte_url": "Diário Oficial de MS",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "fundacao": {
     "valor": "não localizado publicamente",
@@ -84,7 +84,7 @@
   },
   "redes_sociais": {
     "instagram": {
-      "valor": "não localizado publicamente",
+      "valor": "https://www.instagram.com/undimems/",
       "fonte_url": "https://www.instagram.com/undimems/",
       "data_coleta": "2026-06-22",
       "confianca": "media"

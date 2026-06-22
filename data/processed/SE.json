@@ -8,10 +8,10 @@
     "confianca": "alta"
   },
   "cnpj": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "",
+    "valor": "03.433.577/0001-85",
+    "fonte_url": "Serasa Experian",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "fundacao": {
     "valor": "não localizado publicamente",

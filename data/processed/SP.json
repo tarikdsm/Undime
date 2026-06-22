@@ -8,10 +8,10 @@
     "confianca": "alta"
   },
   "cnpj": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "https://www.undime-sp.org.br/",
+    "valor": "59.480.558/0001-64",
+    "fonte_url": "https://undime-sp.org.br/",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "fundacao": {
     "valor": "junho de 1987",

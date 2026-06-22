@@ -8,16 +8,16 @@
     "confianca": "alta"
   },
   "cnpj": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "",
+    "valor": "01.929.316/0001-25",
+    "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "fundacao": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "",
+    "valor": "01/11/1996",
+    "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "sede_endereco": {
     "valor": "Rodovia Augusto Montenegro, km 10, s/n - CEP 66.820-000 - Belém/PA",

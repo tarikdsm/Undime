@@ -8,16 +8,16 @@
     "confianca": "alta"
   },
   "cnpj": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "",
+    "valor": "02.451.827/0001-47",
+    "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "fundacao": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "",
+    "valor": "03/04/1998",
+    "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "sede_endereco": {
     "valor": "Avenida Venezuela, 2398 - Mercejana - Escola Estadual Ana Libória - CEP: 69.304-600 - Boa Vista/RR",

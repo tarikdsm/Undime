@@ -8,16 +8,16 @@
     "confianca": "alta"
   },
   "cnpj": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "https://undime.org.br/noticia/seccionais",
+    "valor": "15.893.134/0001-56",
+    "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "fundacao": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "https://undime.org.br/noticia/seccionais",
+    "valor": "08/11/1990",
+    "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "sede_endereco": {
     "valor": "Rua Paulo Leal, 357 - Centro - CEP 76.801-094 - Porto Velho/RO",

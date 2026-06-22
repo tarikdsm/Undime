@@ -141,3 +141,25 @@
 ## Atualização pós-auditoria (reviewer, 2026-06-22)
 
 - **PR — grafia do presidente:** adotada a forma do portal estadual `undimepr.org.br` — **Adriana de Oliveira Chaves Palmieri** (a página de seccionais da nacional grafava "Adriana de Oliveira Palmieiri", com typo). `fonte_url` do campo atualizada para o portal. Demais campos do PR inalterados.
+
+---
+
+## Merge dos achados do Antigravity (busca_AGY.md) — 2026-06-22
+
+Análise crítica e aplicação **aditiva** dos dados do agente AGY (a regra zero-alucinação vale para fontes de terceiros).
+
+### Rejeitado (contradiz a fonte oficial VIVA — re-verificado por nós em 2026-06-22)
+- **AC — presidente:** AGY propôs "Alysson Bestene"; a página viva `undime.org.br/noticia/seccionais` mostra **Ericson Araújo da Costa**. Mantido Ericson.
+- **RO — presidente:** AGY propôs "Andreza Justina Dias (Ouro Preto do Oeste)"; a fonte viva mostra **Luslarlene Umbelina Souza Fiamett (Santa Luzia D'Oeste)** e o nome do AGY não aparece. Mantido Luslarlene.
+- **SC — presidente:** AGY propôs "Jucilene Fernandes" (presidente); o **portal `undime-sc.org.br` confirma Alex Tardetti como presidente** (Jucilene é a Presidência Regional Sul nacional, que consta na página nacional). Mantido Alex Tardetti.
+- **ES — portal** (`undime-es.sisp.com.br`) e **SP/RJ — contatos/sede** alternativos do AGY: não sobrescritos (mantidos os valores verificados na Fase 2). RJ/SP receberam apenas o CNPJ e redes faltantes.
+
+### Aceito (aditivo — só preencheu lacunas; confiança `media`, AGY não re-verificado campo a campo por nós)
+- **CNPJ** para ~20 seccionais (todos aprovados no dígito verificador, módulo 11) — fontes: portais estaduais, Receita Federal, Serasa, Diários Oficiais.
+- **Fundação** (AC, AM, PA, RO, RR, TO).
+- **Redes sociais** faltantes (ex.: GO/RN/RS YouTube; MS Instagram; RJ Facebook/YouTube).
+- **Itens de confiança baixa resolvidos:** BR `prestacao_contas_url` → `undime.org.br/atas-e-pareceres` (alta, URL viva); PE `contribuicoes` (R$ 450 adimplente × R$ 1.500 inadimplente); ES vice-presidente **Adenilde Stein Silva**; SC transparência.
+- **Novos eventos ≥ 22/06:** AM videoconferência (23/06); SC Seminário Primeira Infância (22-23/06).
+
+### Confirmados (sem mudança no dado, ressalva esclarecida)
+- **AM** X `@AmazonasUndime` inativo desde 2020 (mantido, já marcado). **SP** presidente origem **Nova Odessa/SP** (atual) vs. Sud Mennucci (histórico). **PR** grafia "Adriana de Oliveira Chaves Palmieri" (já aplicada na Fase 5). **MS** fórum: divergência mar/jun mantida (nossa coleta achou inscrição para 25-26/06).

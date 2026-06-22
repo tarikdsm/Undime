@@ -297,10 +297,10 @@
       "confianca": "baixa"
     },
     "prestacao_contas_url": {
-      "valor": "Seção de transparência existe no menu ('Atas, Pareceres e Relatórios Financeiros' e 'Balanço de Gestão'), mas valores/documentos financeiros específicos não foram localizados/extraídos nesta coleta.",
-      "fonte_url": "https://undime.org.br/",
+      "valor": "Atas, Pareceres e Relatórios Financeiros (auditorias até o exercício 2024); balanço de gestão em vídeo em undime.org.br/balanco-de-gestao/",
+      "fonte_url": "https://undime.org.br/atas-e-pareceres",
       "data_coleta": "2026-06-22",
-      "confianca": "baixa"
+      "confianca": "alta"
     }
   },
   "eventos": [

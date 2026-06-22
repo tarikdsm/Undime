@@ -14,10 +14,10 @@
     "confianca": "media"
   },
   "fundacao": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "",
+    "valor": "21/06/1995",
+    "fonte_url": "Receita Federal (Cadastro Nacional da Pessoa Jurídica)",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "sede_endereco": {
     "valor": "Endereço da Secretaria Executiva: Centro de Línguas, Av. Getúlio Vargas, 3030 - Bosque, CEP 69900-589, Rio Branco/AC",

@@ -8,10 +8,10 @@
     "confianca": "alta"
   },
   "cnpj": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "",
+    "valor": "36.044.196/0001-63",
+    "fonte_url": "https://www.undime-es.org.br/",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "fundacao": {
     "valor": "1994-04-20",
@@ -116,6 +116,12 @@
         "fonte_url": "https://www.undime-es.org.br/diretoria",
         "data_coleta": "2026-06-22",
         "confianca": "baixa"
+      },
+      {
+        "valor": "Vice-presidente: Adenilde Stein Silva — DME de Marechal Floriano/ES (biênio 2025-2027)",
+        "fonte_url": "https://www.undime-es.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
       }
     ]
   },

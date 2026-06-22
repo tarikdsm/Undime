@@ -8,10 +8,10 @@
     "confianca": "media"
   },
   "cnpj": {
-    "valor": "não localizado publicamente",
-    "fonte_url": "",
+    "valor": "23.727.373/0001-64",
+    "fonte_url": "https://undime.org.br/noticia/seccionais",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "fundacao": {
     "valor": "não localizado publicamente",

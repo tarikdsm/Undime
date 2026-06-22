@@ -8,10 +8,10 @@
     "confianca": "alta"
   },
   "cnpj": {
-    "valor": "não localizado publicamente",
+    "valor": "79.363.123/0001-47",
     "fonte_url": "https://undime-sc.org.br/",
     "data_coleta": "2026-06-22",
-    "confianca": "baixa"
+    "confianca": "media"
   },
   "fundacao": {
     "valor": "19 de outubro de 1987 (Undime-SC completou 37 anos em 19/10/2024; ano inferido a partir do 'há quase quatro décadas / 37 anos' divulgado oficialmente)",
@@ -147,13 +147,47 @@
       "confianca": "baixa"
     },
     "prestacao_contas_url": {
-      "valor": "não localizado publicamente",
-      "fonte_url": "https://undime-sc.org.br/",
+      "valor": "Portal de Transparência (anuidades via Portaria 02/2026 e fluxos mensais)",
+      "fonte_url": "https://undime-sc.org.br/a-undime/transparencia/",
       "data_coleta": "2026-06-22",
-      "confianca": "baixa"
+      "confianca": "media"
     }
   },
-  "eventos": [],
+  "eventos": [
+    {
+      "titulo": {
+        "valor": "Seminário Nacional – Políticas Públicas para a Primeira Infância (apoio/divulgação Undime-SC)",
+        "fonte_url": "https://undime-sc.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_inicio": {
+        "valor": "2026-06-22",
+        "fonte_url": "https://undime-sc.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "data_fim": {
+        "valor": "2026-06-23",
+        "fonte_url": "https://undime-sc.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "local": {
+        "valor": "Brasília/DF — Auditório do Instituto Serzedello Corrêa (TCU)",
+        "fonte_url": "https://undime-sc.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "media"
+      },
+      "inscricao_url": {
+        "valor": "não localizado publicamente",
+        "fonte_url": "https://undime-sc.org.br/",
+        "data_coleta": "2026-06-22",
+        "confianca": "baixa"
+      },
+      "fonte_url": "https://undime-sc.org.br/"
+    }
+  ],
   "fontes_consultadas": [
     "https://undime-sc.org.br/",
     "https://undime-sc.org.br/eventos/agenda-undime/",
